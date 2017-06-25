@@ -1,0 +1,2853 @@
+"C:\Program Files\Java\jdk1.8.0_111\bin\java" "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2017.1.1\lib\idea_rt.jar=63339:C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2017.1.1\bin" -Dfile.encoding=UTF-8 -classpath "C:\Program Files\Java\jdk1.8.0_111\jre\lib\charsets.jar;C:\Program Files\Java\jdk1.8.0_111\jre\lib\deploy.jar;C:\Program Files\Java\jdk1.8.0_111\jre\lib\ext\access-bridge-64.jar;C:\Program Files\Java\jdk1.8.0_111\jre\lib\ext\cldrdata.jar;C:\Program Files\Java\jdk1.8.0_111\jre\lib\ext\dnsns.jar;C:\Program Files\Java\jdk1.8.0_111\jre\lib\ext\jaccess.jar;C:\Program Files\Java\jdk1.8.0_111\jre\lib\ext\jfxrt.jar;C:\Program Files\Java\jdk1.8.0_111\jre\lib\ext\localedata.jar;C:\Program Files\Java\jdk1.8.0_111\jre\lib\ext\nashorn.jar;C:\Program Files\Java\jdk1.8.0_111\jre\lib\ext\sunec.jar;C:\Program Files\Java\jdk1.8.0_111\jre\lib\ext\sunjce_provider.jar;C:\Program Files\Java\jdk1.8.0_111\jre\lib\ext\sunmscapi.jar;C:\Program Files\Java\jdk1.8.0_111\jre\lib\ext\sunpkcs11.jar;C:\Program Files\Java\jdk1.8.0_111\jre\lib\ext\zipfs.jar;C:\Program Files\Java\jdk1.8.0_111\jre\lib\javaws.jar;C:\Program Files\Java\jdk1.8.0_111\jre\lib\jce.jar;C:\Program Files\Java\jdk1.8.0_111\jre\lib\jfr.jar;C:\Program Files\Java\jdk1.8.0_111\jre\lib\jfxswt.jar;C:\Program Files\Java\jdk1.8.0_111\jre\lib\jsse.jar;C:\Program Files\Java\jdk1.8.0_111\jre\lib\management-agent.jar;C:\Program Files\Java\jdk1.8.0_111\jre\lib\plugin.jar;C:\Program Files\Java\jdk1.8.0_111\jre\lib\resources.jar;C:\Program Files\Java\jdk1.8.0_111\jre\lib\rt.jar;C:\Users\Mober6\Desktop\GITHUBSTUFFITHINK\azalahli-project09\out" sort.MainSortTester
+Recursion Limit = 2
+Elements: 20000Time:0 hrs : 0 mins : 0 sec : 14 ms : 334011 ns
+Raw Time (ns):14334011
+Elements: 40000Time:0 hrs : 0 mins : 0 sec : 37 ms : 504348 ns
+Raw Time (ns):37504348
+Elements: 80000Time:0 hrs : 0 mins : 0 sec : 63 ms : 768829 ns
+Raw Time (ns):63768829
+Elements: 160000Time:0 hrs : 0 mins : 0 sec : 364 ms : 241656 ns
+Raw Time (ns):364241656
+Elements: 320000Time:0 hrs : 0 mins : 0 sec : 352 ms : 72922 ns
+Raw Time (ns):352072922
+Elements: 640000Time:0 hrs : 0 mins : 0 sec : 247 ms : 638887 ns
+Raw Time (ns):247638887
+Elements: 1280000Time:0 hrs : 0 mins : 0 sec : 518 ms : 537186 ns
+Raw Time (ns):518537186
+
+
+
+
+Recursion Limit = 4
+Elements: 20000Time:0 hrs : 0 mins : 0 sec : 3 ms : 979389 ns
+Raw Time (ns):3979389
+Elements: 40000Time:0 hrs : 0 mins : 0 sec : 8 ms : 748718 ns
+Raw Time (ns):8748718
+Elements: 80000Time:0 hrs : 0 mins : 0 sec : 18 ms : 639273 ns
+Raw Time (ns):18639273
+Elements: 160000Time:0 hrs : 0 mins : 0 sec : 77 ms : 290541 ns
+Raw Time (ns):77290541
+Elements: 320000Time:0 hrs : 0 mins : 0 sec : 99 ms : 327837 ns
+Raw Time (ns):99327837
+Elements: 640000Time:0 hrs : 0 mins : 0 sec : 204 ms : 61719 ns
+Raw Time (ns):204061719
+Elements: 1280000Time:0 hrs : 0 mins : 0 sec : 465 ms : 912186 ns
+Raw Time (ns):465912186
+
+
+
+
+Recursion Limit = 6
+Elements: 20000Time:0 hrs : 0 mins : 0 sec : 3 ms : 899846 ns
+Raw Time (ns):3899846
+Elements: 40000Time:0 hrs : 0 mins : 0 sec : 8 ms : 728190 ns
+Raw Time (ns):8728190
+Elements: 80000Time:0 hrs : 0 mins : 0 sec : 18 ms : 447195 ns
+Raw Time (ns):18447195
+Elements: 160000Time:0 hrs : 0 mins : 0 sec : 42 ms : 858709 ns
+Raw Time (ns):42858709
+Elements: 320000Time:0 hrs : 0 mins : 0 sec : 88 ms : 451231 ns
+Raw Time (ns):88451231
+Elements: 640000Time:0 hrs : 0 mins : 0 sec : 208 ms : 564557 ns
+Raw Time (ns):208564557
+Elements: 1280000Time:0 hrs : 0 mins : 0 sec : 483 ms : 422084 ns
+Raw Time (ns):483422084
+
+
+
+
+Recursion Limit = 8
+Elements: 20000Time:0 hrs : 0 mins : 0 sec : 3 ms : 833497 ns
+Raw Time (ns):3833497
+Elements: 40000Time:0 hrs : 0 mins : 0 sec : 8 ms : 576067 ns
+Raw Time (ns):8576067
+Elements: 80000Time:0 hrs : 0 mins : 0 sec : 18 ms : 517575 ns
+Raw Time (ns):18517575
+Elements: 160000Time:0 hrs : 0 mins : 0 sec : 39 ms : 382609 ns
+Raw Time (ns):39382609
+Elements: 320000Time:0 hrs : 0 mins : 0 sec : 100 ms : 934474 ns
+Raw Time (ns):100934474
+Elements: 640000Time:0 hrs : 0 mins : 0 sec : 203 ms : 480353 ns
+Raw Time (ns):203480353
+Elements: 1280000Time:0 hrs : 0 mins : 0 sec : 475 ms : 583172 ns
+Raw Time (ns):475583172
+
+
+
+
+Recursion Limit = 10
+Elements: 20000Time:0 hrs : 0 mins : 0 sec : 3 ms : 727195 ns
+Raw Time (ns):3727195
+Elements: 40000Time:0 hrs : 0 mins : 0 sec : 8 ms : 242863 ns
+Raw Time (ns):8242863
+Elements: 80000Time:0 hrs : 0 mins : 0 sec : 18 ms : 467356 ns
+Raw Time (ns):18467356
+Elements: 160000Time:0 hrs : 0 mins : 0 sec : 39 ms : 169636 ns
+Raw Time (ns):39169636
+Elements: 320000Time:0 hrs : 0 mins : 0 sec : 88 ms : 945355 ns
+Raw Time (ns):88945355
+Elements: 640000Time:0 hrs : 0 mins : 0 sec : 202 ms : 135806 ns
+Raw Time (ns):202135806
+Elements: 1280000Time:0 hrs : 0 mins : 0 sec : 461 ms : 768577 ns
+Raw Time (ns):461768577
+
+
+
+
+Recursion Limit = 12
+Elements: 20000Time:0 hrs : 0 mins : 0 sec : 3 ms : 732693 ns
+Raw Time (ns):3732693
+Elements: 40000Time:0 hrs : 0 mins : 0 sec : 8 ms : 237731 ns
+Raw Time (ns):8237731
+Elements: 80000Time:0 hrs : 0 mins : 0 sec : 18 ms : 414205 ns
+Raw Time (ns):18414205
+Elements: 160000Time:0 hrs : 0 mins : 0 sec : 39 ms : 405335 ns
+Raw Time (ns):39405335
+Elements: 320000Time:0 hrs : 0 mins : 0 sec : 86 ms : 870985 ns
+Raw Time (ns):86870985
+Elements: 640000Time:0 hrs : 0 mins : 0 sec : 210 ms : 325884 ns
+Raw Time (ns):210325884
+Elements: 1280000Time:0 hrs : 0 mins : 0 sec : 455 ms : 318199 ns
+Raw Time (ns):455318199
+
+
+
+
+Recursion Limit = 14
+Elements: 20000Time:0 hrs : 0 mins : 0 sec : 3 ms : 825066 ns
+Raw Time (ns):3825066
+Elements: 40000Time:0 hrs : 0 mins : 0 sec : 8 ms : 250927 ns
+Raw Time (ns):8250927
+Elements: 80000Time:0 hrs : 0 mins : 0 sec : 18 ms : 82833 ns
+Raw Time (ns):18082833
+Elements: 160000Time:0 hrs : 0 mins : 0 sec : 40 ms : 85673 ns
+Raw Time (ns):40085673
+Elements: 320000Time:0 hrs : 0 mins : 0 sec : 85 ms : 972177 ns
+Raw Time (ns):85972177
+Elements: 640000Time:0 hrs : 0 mins : 0 sec : 202 ms : 586310 ns
+Raw Time (ns):202586310
+Elements: 1280000Time:0 hrs : 0 mins : 0 sec : 452 ms : 826316 ns
+Raw Time (ns):452826316
+
+
+
+
+Recursion Limit = 16
+Elements: 20000Time:0 hrs : 0 mins : 0 sec : 3 ms : 790244 ns
+Raw Time (ns):3790244
+Elements: 40000Time:0 hrs : 0 mins : 0 sec : 8 ms : 197043 ns
+Raw Time (ns):8197043
+Elements: 80000Time:0 hrs : 0 mins : 0 sec : 18 ms : 56440 ns
+Raw Time (ns):18056440
+Elements: 160000Time:0 hrs : 0 mins : 0 sec : 39 ms : 107321 ns
+Raw Time (ns):39107321
+Elements: 320000Time:0 hrs : 0 mins : 0 sec : 86 ms : 312346 ns
+Raw Time (ns):86312346
+Elements: 640000Time:0 hrs : 0 mins : 0 sec : 205 ms : 573784 ns
+Raw Time (ns):205573784
+Elements: 1280000Time:0 hrs : 0 mins : 0 sec : 453 ms : 296981 ns
+Raw Time (ns):453296981
+
+
+
+
+Recursion Limit = 18
+Elements: 20000Time:0 hrs : 0 mins : 0 sec : 3 ms : 697137 ns
+Raw Time (ns):3697137
+Elements: 40000Time:0 hrs : 0 mins : 0 sec : 8 ms : 128129 ns
+Raw Time (ns):8128129
+Elements: 80000Time:0 hrs : 0 mins : 0 sec : 17 ms : 888190 ns
+Raw Time (ns):17888190
+Elements: 160000Time:0 hrs : 0 mins : 0 sec : 39 ms : 387740 ns
+Raw Time (ns):39387740
+Elements: 320000Time:0 hrs : 0 mins : 0 sec : 90 ms : 770831 ns
+Raw Time (ns):90770831
+Elements: 640000Time:0 hrs : 0 mins : 0 sec : 206 ms : 618850 ns
+Raw Time (ns):206618850
+Elements: 1280000Time:0 hrs : 0 mins : 0 sec : 457 ms : 232015 ns
+Raw Time (ns):457232015
+
+
+
+
+Recursion Limit = 20
+Elements: 20000Time:0 hrs : 0 mins : 0 sec : 3 ms : 700070 ns
+Raw Time (ns):3700070
+Elements: 40000Time:0 hrs : 0 mins : 0 sec : 8 ms : 164052 ns
+Raw Time (ns):8164052
+Elements: 80000Time:0 hrs : 0 mins : 0 sec : 17 ms : 778587 ns
+Raw Time (ns):17778587
+Elements: 160000Time:0 hrs : 0 mins : 0 sec : 38 ms : 527787 ns
+Raw Time (ns):38527787
+Elements: 320000Time:0 hrs : 0 mins : 0 sec : 86 ms : 114403 ns
+Raw Time (ns):86114403
+Elements: 640000Time:0 hrs : 0 mins : 0 sec : 205 ms : 867767 ns
+Raw Time (ns):205867767
+Elements: 1280000Time:0 hrs : 0 mins : 0 sec : 447 ms : 627011 ns
+Raw Time (ns):447627011
+
+
+
+
+Recursion Limit = 22
+Elements: 20000Time:0 hrs : 0 mins : 0 sec : 3 ms : 644352 ns
+Raw Time (ns):3644352
+Elements: 40000Time:0 hrs : 0 mins : 0 sec : 8 ms : 36855 ns
+Raw Time (ns):8036855
+Elements: 80000Time:0 hrs : 0 mins : 0 sec : 18 ms : 9521 ns
+Raw Time (ns):18009521
+Elements: 160000Time:0 hrs : 0 mins : 0 sec : 38 ms : 477935 ns
+Raw Time (ns):38477935
+Elements: 320000Time:0 hrs : 0 mins : 0 sec : 85 ms : 44044 ns
+Raw Time (ns):85044044
+Elements: 640000Time:0 hrs : 0 mins : 0 sec : 219 ms : 843647 ns
+Raw Time (ns):219843647
+Elements: 1280000Time:0 hrs : 0 mins : 0 sec : 447 ms : 386180 ns
+Raw Time (ns):447386180
+
+
+
+
+Recursion Limit = 24
+Elements: 20000Time:0 hrs : 0 mins : 0 sec : 3 ms : 637387 ns
+Raw Time (ns):3637387
+Elements: 40000Time:0 hrs : 0 mins : 0 sec : 8 ms : 63614 ns
+Raw Time (ns):8063614
+Elements: 80000Time:0 hrs : 0 mins : 0 sec : 17 ms : 646992 ns
+Raw Time (ns):17646992
+Elements: 160000Time:0 hrs : 0 mins : 0 sec : 37 ms : 983444 ns
+Raw Time (ns):37983444
+Elements: 320000Time:0 hrs : 0 mins : 0 sec : 85 ms : 848279 ns
+Raw Time (ns):85848279
+Elements: 640000Time:0 hrs : 0 mins : 0 sec : 193 ms : 121331 ns
+Raw Time (ns):193121331
+Elements: 1280000Time:0 hrs : 0 mins : 0 sec : 450 ms : 215300 ns
+Raw Time (ns):450215300
+
+
+
+
+Recursion Limit = 26
+Elements: 20000Time:0 hrs : 0 mins : 0 sec : 3 ms : 617593 ns
+Raw Time (ns):3617593
+Elements: 40000Time:0 hrs : 0 mins : 0 sec : 8 ms : 152689 ns
+Raw Time (ns):8152689
+Elements: 80000Time:0 hrs : 0 mins : 0 sec : 17 ms : 764659 ns
+Raw Time (ns):17764659
+Elements: 160000Time:0 hrs : 0 mins : 0 sec : 38 ms : 677345 ns
+Raw Time (ns):38677345
+Elements: 320000Time:0 hrs : 0 mins : 0 sec : 89 ms : 84649 ns
+Raw Time (ns):89084649
+Elements: 640000Time:0 hrs : 0 mins : 0 sec : 193 ms : 477629 ns
+Raw Time (ns):193477629
+Elements: 1280000Time:0 hrs : 0 mins : 0 sec : 439 ms : 925926 ns
+Raw Time (ns):439925926
+
+
+
+
+Recursion Limit = 28
+Elements: 20000Time:0 hrs : 0 mins : 0 sec : 3 ms : 640320 ns
+Raw Time (ns):3640320
+Elements: 40000Time:0 hrs : 0 mins : 0 sec : 8 ms : 113100 ns
+Raw Time (ns):8113100
+Elements: 80000Time:0 hrs : 0 mins : 0 sec : 17 ms : 705641 ns
+Raw Time (ns):17705641
+Elements: 160000Time:0 hrs : 0 mins : 0 sec : 37 ms : 579494 ns
+Raw Time (ns):37579494
+Elements: 320000Time:0 hrs : 0 mins : 0 sec : 83 ms : 460133 ns
+Raw Time (ns):83460133
+Elements: 640000Time:0 hrs : 0 mins : 0 sec : 191 ms : 765788 ns
+Raw Time (ns):191765788
+Elements: 1280000Time:0 hrs : 0 mins : 0 sec : 443 ms : 630393 ns
+Raw Time (ns):443630393
+
+
+
+
+Recursion Limit = 30
+Elements: 20000Time:0 hrs : 0 mins : 0 sec : 3 ms : 657548 ns
+Raw Time (ns):3657548
+Elements: 40000Time:0 hrs : 0 mins : 0 sec : 8 ms : 78277 ns
+Raw Time (ns):8078277
+Elements: 80000Time:0 hrs : 0 mins : 0 sec : 17 ms : 447950 ns
+Raw Time (ns):17447950
+Elements: 160000Time:0 hrs : 0 mins : 0 sec : 37 ms : 933225 ns
+Raw Time (ns):37933225
+Elements: 320000Time:0 hrs : 0 mins : 0 sec : 85 ms : 934055 ns
+Raw Time (ns):85934055
+Elements: 640000Time:0 hrs : 0 mins : 0 sec : 194 ms : 541389 ns
+Raw Time (ns):194541389
+Elements: 1280000Time:0 hrs : 0 mins : 0 sec : 449 ms : 773960 ns
+Raw Time (ns):449773960
+
+
+
+
+Recursion Limit = 32
+Elements: 20000Time:0 hrs : 0 mins : 0 sec : 3 ms : 728661 ns
+Raw Time (ns):3728661
+Elements: 40000Time:0 hrs : 0 mins : 0 sec : 8 ms : 125196 ns
+Raw Time (ns):8125196
+Elements: 80000Time:0 hrs : 0 mins : 0 sec : 17 ms : 513564 ns
+Raw Time (ns):17513564
+Elements: 160000Time:0 hrs : 0 mins : 0 sec : 38 ms : 759821 ns
+Raw Time (ns):38759821
+Elements: 320000Time:0 hrs : 0 mins : 0 sec : 85 ms : 512143 ns
+Raw Time (ns):85512143
+Elements: 640000Time:0 hrs : 0 mins : 0 sec : 204 ms : 18098 ns
+Raw Time (ns):204018098
+Elements: 1280000Time:0 hrs : 0 mins : 0 sec : 445 ms : 52284 ns
+Raw Time (ns):445052284
+
+
+
+
+Recursion Limit = 34
+Elements: 20000Time:0 hrs : 0 mins : 0 sec : 3 ms : 625657 ns
+Raw Time (ns):3625657
+Elements: 40000Time:0 hrs : 0 mins : 0 sec : 7 ms : 938984 ns
+Raw Time (ns):7938984
+Elements: 80000Time:0 hrs : 0 mins : 0 sec : 17 ms : 422656 ns
+Raw Time (ns):17422656
+Elements: 160000Time:0 hrs : 0 mins : 0 sec : 37 ms : 701559 ns
+Raw Time (ns):37701559
+Elements: 320000Time:0 hrs : 0 mins : 0 sec : 93 ms : 562562 ns
+Raw Time (ns):93562562
+Elements: 640000Time:0 hrs : 0 mins : 0 sec : 199 ms : 739228 ns
+Raw Time (ns):199739228
+Elements: 1280000Time:0 hrs : 0 mins : 0 sec : 440 ms : 920406 ns
+Raw Time (ns):440920406
+
+
+
+
+Recursion Limit = 36
+Elements: 20000Time:0 hrs : 0 mins : 0 sec : 3 ms : 661580 ns
+Raw Time (ns):3661580
+Elements: 40000Time:0 hrs : 0 mins : 0 sec : 8 ms : 248361 ns
+Raw Time (ns):8248361
+Elements: 80000Time:0 hrs : 0 mins : 0 sec : 19 ms : 378627 ns
+Raw Time (ns):19378627
+Elements: 160000Time:0 hrs : 0 mins : 0 sec : 45 ms : 678298 ns
+Raw Time (ns):45678298
+Elements: 320000Time:0 hrs : 0 mins : 0 sec : 95 ms : 297129 ns
+Raw Time (ns):95297129
+Elements: 640000Time:0 hrs : 0 mins : 0 sec : 209 ms : 689534 ns
+Raw Time (ns):209689534
+Elements: 1280000Time:0 hrs : 0 mins : 0 sec : 473 ms : 639664 ns
+Raw Time (ns):473639664
+
+
+
+
+Recursion Limit = 38
+Elements: 20000Time:0 hrs : 0 mins : 0 sec : 3 ms : 641419 ns
+Raw Time (ns):3641419
+Elements: 40000Time:0 hrs : 0 mins : 0 sec : 8 ms : 127029 ns
+Raw Time (ns):8127029
+Elements: 80000Time:0 hrs : 0 mins : 0 sec : 17 ms : 666786 ns
+Raw Time (ns):17666786
+Elements: 160000Time:0 hrs : 0 mins : 0 sec : 39 ms : 193096 ns
+Raw Time (ns):39193096
+Elements: 320000Time:0 hrs : 0 mins : 0 sec : 88 ms : 225430 ns
+Raw Time (ns):88225430
+Elements: 640000Time:0 hrs : 0 mins : 0 sec : 203 ms : 932689 ns
+Raw Time (ns):203932689
+Elements: 1280000Time:0 hrs : 0 mins : 0 sec : 451 ms : 350173 ns
+Raw Time (ns):451350173
+
+
+
+
+Recursion Limit = 40
+Elements: 20000Time:0 hrs : 0 mins : 0 sec : 3 ms : 692005 ns
+Raw Time (ns):3692005
+Elements: 40000Time:0 hrs : 0 mins : 0 sec : 8 ms : 105402 ns
+Raw Time (ns):8105402
+Elements: 80000Time:0 hrs : 0 mins : 0 sec : 17 ms : 731301 ns
+Raw Time (ns):17731301
+Elements: 160000Time:0 hrs : 0 mins : 0 sec : 38 ms : 383363 ns
+Raw Time (ns):38383363
+Elements: 320000Time:0 hrs : 0 mins : 0 sec : 84 ms : 691412 ns
+Raw Time (ns):84691412
+Elements: 640000Time:0 hrs : 0 mins : 0 sec : 201 ms : 509352 ns
+Raw Time (ns):201509352
+Elements: 1280000Time:0 hrs : 0 mins : 0 sec : 463 ms : 80500 ns
+Raw Time (ns):463080500
+
+
+
+
+Recursion Limit = 42
+Elements: 20000Time:0 hrs : 0 mins : 0 sec : 3 ms : 706301 ns
+Raw Time (ns):3706301
+Elements: 40000Time:0 hrs : 0 mins : 0 sec : 8 ms : 138026 ns
+Raw Time (ns):8138026
+Elements: 80000Time:0 hrs : 0 mins : 0 sec : 17 ms : 939141 ns
+Raw Time (ns):17939141
+Elements: 160000Time:0 hrs : 0 mins : 0 sec : 38 ms : 696772 ns
+Raw Time (ns):38696772
+Elements: 320000Time:0 hrs : 0 mins : 0 sec : 86 ms : 2969 ns
+Raw Time (ns):86002969
+Elements: 640000Time:0 hrs : 0 mins : 0 sec : 205 ms : 99087 ns
+Raw Time (ns):205099087
+Elements: 1280000Time:0 hrs : 0 mins : 0 sec : 459 ms : 75451 ns
+Raw Time (ns):459075451
+
+
+
+
+Recursion Limit = 44
+Elements: 20000Time:0 hrs : 0 mins : 0 sec : 3 ms : 767150 ns
+Raw Time (ns):3767150
+Elements: 40000Time:0 hrs : 0 mins : 0 sec : 8 ms : 299680 ns
+Raw Time (ns):8299680
+Elements: 80000Time:0 hrs : 0 mins : 0 sec : 18 ms : 314133 ns
+Raw Time (ns):18314133
+Elements: 160000Time:0 hrs : 0 mins : 0 sec : 41 ms : 671783 ns
+Raw Time (ns):41671783
+Elements: 320000Time:0 hrs : 0 mins : 0 sec : 87 ms : 980566 ns
+Raw Time (ns):87980566
+Elements: 640000Time:0 hrs : 0 mins : 0 sec : 210 ms : 662021 ns
+Raw Time (ns):210662021
+Elements: 1280000Time:0 hrs : 0 mins : 0 sec : 446 ms : 373738 ns
+Raw Time (ns):446373738
+
+
+
+
+Recursion Limit = 46
+Elements: 20000Time:0 hrs : 0 mins : 0 sec : 3 ms : 701169 ns
+Raw Time (ns):3701169
+Elements: 40000Time:0 hrs : 0 mins : 0 sec : 8 ms : 81942 ns
+Raw Time (ns):8081942
+Elements: 80000Time:0 hrs : 0 mins : 0 sec : 17 ms : 665320 ns
+Raw Time (ns):17665320
+Elements: 160000Time:0 hrs : 0 mins : 0 sec : 38 ms : 812239 ns
+Raw Time (ns):38812239
+Elements: 320000Time:0 hrs : 0 mins : 0 sec : 85 ms : 845347 ns
+Raw Time (ns):85845347
+Elements: 640000Time:0 hrs : 0 mins : 0 sec : 209 ms : 737919 ns
+Raw Time (ns):209737919
+Elements: 1280000Time:0 hrs : 0 mins : 0 sec : 448 ms : 156325 ns
+Raw Time (ns):448156325
+
+
+
+
+Recursion Limit = 48
+Elements: 20000Time:0 hrs : 0 mins : 0 sec : 3 ms : 700436 ns
+Raw Time (ns):3700436
+Elements: 40000Time:0 hrs : 0 mins : 0 sec : 8 ms : 335236 ns
+Raw Time (ns):8335236
+Elements: 80000Time:0 hrs : 0 mins : 0 sec : 20 ms : 727573 ns
+Raw Time (ns):20727573
+Elements: 160000Time:0 hrs : 0 mins : 0 sec : 43 ms : 977820 ns
+Raw Time (ns):43977820
+Elements: 320000Time:0 hrs : 0 mins : 0 sec : 84 ms : 458279 ns
+Raw Time (ns):84458279
+Elements: 640000Time:0 hrs : 0 mins : 0 sec : 193 ms : 934730 ns
+Raw Time (ns):193934730
+Elements: 1280000Time:0 hrs : 0 mins : 0 sec : 475 ms : 711468 ns
+Raw Time (ns):475711468
+
+
+
+
+Recursion Limit = 50
+Elements: 20000Time:0 hrs : 0 mins : 0 sec : 3 ms : 800140 ns
+Raw Time (ns):3800140
+Elements: 40000Time:0 hrs : 0 mins : 0 sec : 9 ms : 27304 ns
+Raw Time (ns):9027304
+Elements: 80000Time:0 hrs : 0 mins : 0 sec : 21 ms : 779970 ns
+Raw Time (ns):21779970
+Elements: 160000Time:0 hrs : 0 mins : 0 sec : 39 ms : 937216 ns
+Raw Time (ns):39937216
+Elements: 320000Time:0 hrs : 0 mins : 0 sec : 85 ms : 415737 ns
+Raw Time (ns):85415737
+Elements: 640000Time:0 hrs : 0 mins : 0 sec : 201 ms : 831193 ns
+Raw Time (ns):201831193
+Elements: 1280000Time:0 hrs : 0 mins : 0 sec : 463 ms : 627043 ns
+Raw Time (ns):463627043
+
+
+
+
+Recursion Limit = 52
+Elements: 20000Time:0 hrs : 0 mins : 0 sec : 3 ms : 948965 ns
+Raw Time (ns):3948965
+Elements: 40000Time:0 hrs : 0 mins : 0 sec : 10 ms : 625144 ns
+Raw Time (ns):10625144
+Elements: 80000Time:0 hrs : 0 mins : 0 sec : 19 ms : 448274 ns
+Raw Time (ns):19448274
+Elements: 160000Time:0 hrs : 0 mins : 0 sec : 40 ms : 273352 ns
+Raw Time (ns):40273352
+Elements: 320000Time:0 hrs : 0 mins : 0 sec : 86 ms : 496360 ns
+Raw Time (ns):86496360
+Elements: 640000Time:0 hrs : 0 mins : 0 sec : 197 ms : 917419 ns
+Raw Time (ns):197917419
+Elements: 1280000Time:0 hrs : 0 mins : 0 sec : 459 ms : 610632 ns
+Raw Time (ns):459610632
+
+
+
+
+Recursion Limit = 54
+Elements: 20000Time:0 hrs : 0 mins : 0 sec : 3 ms : 656815 ns
+Raw Time (ns):3656815
+Elements: 40000Time:0 hrs : 0 mins : 0 sec : 8 ms : 220869 ns
+Raw Time (ns):8220869
+Elements: 80000Time:0 hrs : 0 mins : 0 sec : 17 ms : 768324 ns
+Raw Time (ns):17768324
+Elements: 160000Time:0 hrs : 0 mins : 0 sec : 38 ms : 946400 ns
+Raw Time (ns):38946400
+Elements: 320000Time:0 hrs : 0 mins : 0 sec : 86 ms : 689905 ns
+Raw Time (ns):86689905
+Elements: 640000Time:0 hrs : 0 mins : 0 sec : 194 ms : 611770 ns
+Raw Time (ns):194611770
+Elements: 1280000Time:0 hrs : 0 mins : 0 sec : 447 ms : 168442 ns
+Raw Time (ns):447168442
+
+
+
+
+Recursion Limit = 56
+Elements: 20000Time:0 hrs : 0 mins : 0 sec : 3 ms : 825434 ns
+Raw Time (ns):3825434
+Elements: 40000Time:0 hrs : 0 mins : 0 sec : 8 ms : 250194 ns
+Raw Time (ns):8250194
+Elements: 80000Time:0 hrs : 0 mins : 0 sec : 17 ms : 794350 ns
+Raw Time (ns):17794350
+Elements: 160000Time:0 hrs : 0 mins : 0 sec : 39 ms : 40240 ns
+Raw Time (ns):39040240
+Elements: 320000Time:0 hrs : 0 mins : 0 sec : 86 ms : 53553 ns
+Raw Time (ns):86053553
+Elements: 640000Time:0 hrs : 0 mins : 0 sec : 215 ms : 984124 ns
+Raw Time (ns):215984124
+Elements: 1280000Time:0 hrs : 0 mins : 0 sec : 448 ms : 532783 ns
+Raw Time (ns):448532783
+
+
+
+
+Recursion Limit = 58
+Elements: 20000Time:0 hrs : 0 mins : 0 sec : 3 ms : 785478 ns
+Raw Time (ns):3785478
+Elements: 40000Time:0 hrs : 0 mins : 0 sec : 8 ms : 254227 ns
+Raw Time (ns):8254227
+Elements: 80000Time:0 hrs : 0 mins : 0 sec : 18 ms : 24184 ns
+Raw Time (ns):18024184
+Elements: 160000Time:0 hrs : 0 mins : 0 sec : 43 ms : 426878 ns
+Raw Time (ns):43426878
+Elements: 320000Time:0 hrs : 0 mins : 0 sec : 91 ms : 752848 ns
+Raw Time (ns):91752848
+Elements: 640000Time:0 hrs : 0 mins : 0 sec : 203 ms : 524 ns
+Raw Time (ns):203000524
+Elements: 1280000Time:0 hrs : 0 mins : 0 sec : 461 ms : 836757 ns
+Raw Time (ns):461836757
+
+
+
+
+Recursion Limit = 60
+Elements: 20000Time:0 hrs : 0 mins : 0 sec : 3 ms : 764218 ns
+Raw Time (ns):3764218
+Elements: 40000Time:0 hrs : 0 mins : 0 sec : 8 ms : 497256 ns
+Raw Time (ns):8497256
+Elements: 80000Time:0 hrs : 0 mins : 0 sec : 18 ms : 188769 ns
+Raw Time (ns):18188769
+Elements: 160000Time:0 hrs : 0 mins : 0 sec : 38 ms : 920375 ns
+Raw Time (ns):38920375
+Elements: 320000Time:0 hrs : 0 mins : 0 sec : 88 ms : 443900 ns
+Raw Time (ns):88443900
+Elements: 640000Time:0 hrs : 0 mins : 0 sec : 199 ms : 225310 ns
+Raw Time (ns):199225310
+Elements: 1280000Time:0 hrs : 0 mins : 0 sec : 466 ms : 882473 ns
+Raw Time (ns):466882473
+
+
+
+
+Recursion Limit = 62
+Elements: 20000Time:0 hrs : 0 mins : 0 sec : 3 ms : 730861 ns
+Raw Time (ns):3730861
+Elements: 40000Time:0 hrs : 0 mins : 0 sec : 8 ms : 338535 ns
+Raw Time (ns):8338535
+Elements: 80000Time:0 hrs : 0 mins : 0 sec : 19 ms : 962560 ns
+Raw Time (ns):19962560
+Elements: 160000Time:0 hrs : 0 mins : 0 sec : 41 ms : 387699 ns
+Raw Time (ns):41387699
+Elements: 320000Time:0 hrs : 0 mins : 0 sec : 87 ms : 300229 ns
+Raw Time (ns):87300229
+Elements: 640000Time:0 hrs : 0 mins : 0 sec : 213 ms : 357346 ns
+Raw Time (ns):213357346
+Elements: 1280000Time:0 hrs : 0 mins : 0 sec : 458 ms : 774138 ns
+Raw Time (ns):458774138
+
+
+
+
+Recursion Limit = 64
+Elements: 20000Time:0 hrs : 0 mins : 0 sec : 3 ms : 810771 ns
+Raw Time (ns):3810771
+Elements: 40000Time:0 hrs : 0 mins : 0 sec : 8 ms : 318008 ns
+Raw Time (ns):8318008
+Elements: 80000Time:0 hrs : 0 mins : 0 sec : 18 ms : 181072 ns
+Raw Time (ns):18181072
+Elements: 160000Time:0 hrs : 0 mins : 0 sec : 41 ms : 193054 ns
+Raw Time (ns):41193054
+Elements: 320000Time:0 hrs : 0 mins : 0 sec : 92 ms : 291693 ns
+Raw Time (ns):92291693
+Elements: 640000Time:0 hrs : 0 mins : 0 sec : 199 ms : 213579 ns
+Raw Time (ns):199213579
+Elements: 1280000Time:0 hrs : 0 mins : 0 sec : 456 ms : 391857 ns
+Raw Time (ns):456391857
+
+
+
+
+Recursion Limit = 66
+Elements: 20000Time:0 hrs : 0 mins : 0 sec : 3 ms : 843395 ns
+Raw Time (ns):3843395
+Elements: 40000Time:0 hrs : 0 mins : 0 sec : 8 ms : 322774 ns
+Raw Time (ns):8322774
+Elements: 80000Time:0 hrs : 0 mins : 0 sec : 18 ms : 625344 ns
+Raw Time (ns):18625344
+Elements: 160000Time:0 hrs : 0 mins : 0 sec : 39 ms : 854739 ns
+Raw Time (ns):39854739
+Elements: 320000Time:0 hrs : 0 mins : 0 sec : 88 ms : 661270 ns
+Raw Time (ns):88661270
+Elements: 640000Time:0 hrs : 0 mins : 0 sec : 205 ms : 870698 ns
+Raw Time (ns):205870698
+Elements: 1280000Time:0 hrs : 0 mins : 0 sec : 454 ms : 144470 ns
+Raw Time (ns):454144470
+
+
+
+
+Recursion Limit = 68
+Elements: 20000Time:0 hrs : 0 mins : 0 sec : 3 ms : 908643 ns
+Raw Time (ns):3908643
+Elements: 40000Time:0 hrs : 0 mins : 0 sec : 8 ms : 440439 ns
+Raw Time (ns):8440439
+Elements: 80000Time:0 hrs : 0 mins : 0 sec : 18 ms : 405040 ns
+Raw Time (ns):18405040
+Elements: 160000Time:0 hrs : 0 mins : 0 sec : 41 ms : 593339 ns
+Raw Time (ns):41593339
+Elements: 320000Time:0 hrs : 0 mins : 0 sec : 88 ms : 280413 ns
+Raw Time (ns):88280413
+Elements: 640000Time:0 hrs : 0 mins : 0 sec : 199 ms : 39830 ns
+Raw Time (ns):199039830
+Elements: 1280000Time:0 hrs : 0 mins : 0 sec : 448 ms : 140929 ns
+Raw Time (ns):448140929
+
+
+
+
+Recursion Limit = 70
+Elements: 20000Time:0 hrs : 0 mins : 0 sec : 3 ms : 795376 ns
+Raw Time (ns):3795376
+Elements: 40000Time:0 hrs : 0 mins : 0 sec : 8 ms : 407082 ns
+Raw Time (ns):8407082
+Elements: 80000Time:0 hrs : 0 mins : 0 sec : 18 ms : 356288 ns
+Raw Time (ns):18356288
+Elements: 160000Time:0 hrs : 0 mins : 0 sec : 39 ms : 104022 ns
+Raw Time (ns):39104022
+Elements: 320000Time:0 hrs : 0 mins : 0 sec : 88 ms : 486788 ns
+Raw Time (ns):88486788
+Elements: 640000Time:0 hrs : 0 mins : 0 sec : 198 ms : 340430 ns
+Raw Time (ns):198340430
+Elements: 1280000Time:0 hrs : 0 mins : 0 sec : 452 ms : 176403 ns
+Raw Time (ns):452176403
+
+
+
+
+Recursion Limit = 72
+Elements: 20000Time:0 hrs : 0 mins : 0 sec : 3 ms : 873086 ns
+Raw Time (ns):3873086
+Elements: 40000Time:0 hrs : 0 mins : 0 sec : 8 ms : 422845 ns
+Raw Time (ns):8422845
+Elements: 80000Time:0 hrs : 0 mins : 0 sec : 18 ms : 238256 ns
+Raw Time (ns):18238256
+Elements: 160000Time:0 hrs : 0 mins : 0 sec : 39 ms : 965807 ns
+Raw Time (ns):39965807
+Elements: 320000Time:0 hrs : 0 mins : 0 sec : 87 ms : 566719 ns
+Raw Time (ns):87566719
+Elements: 640000Time:0 hrs : 0 mins : 0 sec : 201 ms : 28058 ns
+Raw Time (ns):201028058
+Elements: 1280000Time:0 hrs : 0 mins : 0 sec : 455 ms : 350090 ns
+Raw Time (ns):455350090
+
+
+
+
+Recursion Limit = 74
+Elements: 20000Time:0 hrs : 0 mins : 0 sec : 3 ms : 885182 ns
+Raw Time (ns):3885182
+Elements: 40000Time:0 hrs : 0 mins : 0 sec : 8 ms : 509720 ns
+Raw Time (ns):8509720
+Elements: 80000Time:0 hrs : 0 mins : 0 sec : 18 ms : 584656 ns
+Raw Time (ns):18584656
+Elements: 160000Time:0 hrs : 0 mins : 0 sec : 40 ms : 16759 ns
+Raw Time (ns):40016759
+Elements: 320000Time:0 hrs : 0 mins : 0 sec : 87 ms : 484975 ns
+Raw Time (ns):87484975
+Elements: 640000Time:0 hrs : 0 mins : 0 sec : 201 ms : 731122 ns
+Raw Time (ns):201731122
+Elements: 1280000Time:0 hrs : 0 mins : 0 sec : 458 ms : 804930 ns
+Raw Time (ns):458804930
+
+
+
+
+Recursion Limit = 76
+Elements: 20000Time:0 hrs : 0 mins : 0 sec : 3 ms : 873453 ns
+Raw Time (ns):3873453
+Elements: 40000Time:0 hrs : 0 mins : 0 sec : 8 ms : 561771 ns
+Raw Time (ns):8561771
+Elements: 80000Time:0 hrs : 0 mins : 0 sec : 18 ms : 411272 ns
+Raw Time (ns):18411272
+Elements: 160000Time:0 hrs : 0 mins : 0 sec : 39 ms : 650197 ns
+Raw Time (ns):39650197
+Elements: 320000Time:0 hrs : 0 mins : 0 sec : 88 ms : 591990 ns
+Raw Time (ns):88591990
+Elements: 640000Time:0 hrs : 0 mins : 0 sec : 200 ms : 137314 ns
+Raw Time (ns):200137314
+Elements: 1280000Time:0 hrs : 0 mins : 0 sec : 455 ms : 832485 ns
+Raw Time (ns):455832485
+
+
+
+
+Recursion Limit = 78
+Elements: 20000Time:0 hrs : 0 mins : 0 sec : 3 ms : 904610 ns
+Raw Time (ns):3904610
+Elements: 40000Time:0 hrs : 0 mins : 0 sec : 8 ms : 499090 ns
+Raw Time (ns):8499090
+Elements: 80000Time:0 hrs : 0 mins : 0 sec : 18 ms : 482385 ns
+Raw Time (ns):18482385
+Elements: 160000Time:0 hrs : 0 mins : 0 sec : 40 ms : 434639 ns
+Raw Time (ns):40434639
+Elements: 320000Time:0 hrs : 0 mins : 0 sec : 87 ms : 595677 ns
+Raw Time (ns):87595677
+Elements: 640000Time:0 hrs : 0 mins : 0 sec : 209 ms : 860351 ns
+Raw Time (ns):209860351
+Elements: 1280000Time:0 hrs : 0 mins : 0 sec : 454 ms : 916814 ns
+Raw Time (ns):454916814
+
+
+
+
+Recursion Limit = 80
+Elements: 20000Time:0 hrs : 0 mins : 0 sec : 3 ms : 880051 ns
+Raw Time (ns):3880051
+Elements: 40000Time:0 hrs : 0 mins : 0 sec : 8 ms : 555906 ns
+Raw Time (ns):8555906
+Elements: 80000Time:0 hrs : 0 mins : 0 sec : 18 ms : 759506 ns
+Raw Time (ns):18759506
+Elements: 160000Time:0 hrs : 0 mins : 0 sec : 39 ms : 785459 ns
+Raw Time (ns):39785459
+Elements: 320000Time:0 hrs : 0 mins : 0 sec : 89 ms : 16102 ns
+Raw Time (ns):89016102
+Elements: 640000Time:0 hrs : 0 mins : 0 sec : 205 ms : 14411 ns
+Raw Time (ns):205014411
+Elements: 1280000Time:0 hrs : 0 mins : 0 sec : 453 ms : 842789 ns
+Raw Time (ns):453842789
+
+
+
+
+Recursion Limit = 82
+Elements: 20000Time:0 hrs : 0 mins : 0 sec : 3 ms : 957028 ns
+Raw Time (ns):3957028
+Elements: 40000Time:0 hrs : 0 mins : 0 sec : 8 ms : 569836 ns
+Raw Time (ns):8569836
+Elements: 80000Time:0 hrs : 0 mins : 0 sec : 18 ms : 532971 ns
+Raw Time (ns):18532971
+Elements: 160000Time:0 hrs : 0 mins : 0 sec : 39 ms : 623072 ns
+Raw Time (ns):39623072
+Elements: 320000Time:0 hrs : 0 mins : 0 sec : 87 ms : 941345 ns
+Raw Time (ns):87941345
+Elements: 640000Time:0 hrs : 0 mins : 0 sec : 201 ms : 145724 ns
+Raw Time (ns):201145724
+Elements: 1280000Time:0 hrs : 0 mins : 0 sec : 457 ms : 537361 ns
+Raw Time (ns):457537361
+
+
+
+
+Recursion Limit = 84
+Elements: 20000Time:0 hrs : 0 mins : 0 sec : 3 ms : 888482 ns
+Raw Time (ns):3888482
+Elements: 40000Time:0 hrs : 0 mins : 0 sec : 8 ms : 605026 ns
+Raw Time (ns):8605026
+Elements: 80000Time:0 hrs : 0 mins : 0 sec : 18 ms : 825853 ns
+Raw Time (ns):18825853
+Elements: 160000Time:0 hrs : 0 mins : 0 sec : 46 ms : 738027 ns
+Raw Time (ns):46738027
+Elements: 320000Time:0 hrs : 0 mins : 0 sec : 89 ms : 606998 ns
+Raw Time (ns):89606998
+Elements: 640000Time:0 hrs : 0 mins : 0 sec : 204 ms : 627323 ns
+Raw Time (ns):204627323
+Elements: 1280000Time:0 hrs : 0 mins : 0 sec : 470 ms : 662087 ns
+Raw Time (ns):470662087
+
+
+
+
+Recursion Limit = 86
+Elements: 20000Time:0 hrs : 0 mins : 0 sec : 3 ms : 993318 ns
+Raw Time (ns):3993318
+Elements: 40000Time:0 hrs : 0 mins : 0 sec : 8 ms : 656711 ns
+Raw Time (ns):8656711
+Elements: 80000Time:0 hrs : 0 mins : 0 sec : 19 ms : 27828 ns
+Raw Time (ns):19027828
+Elements: 160000Time:0 hrs : 0 mins : 0 sec : 41 ms : 239608 ns
+Raw Time (ns):41239608
+Elements: 320000Time:0 hrs : 0 mins : 0 sec : 89 ms : 758022 ns
+Raw Time (ns):89758022
+Elements: 640000Time:0 hrs : 0 mins : 0 sec : 202 ms : 811378 ns
+Raw Time (ns):202811378
+Elements: 1280000Time:0 hrs : 0 mins : 0 sec : 464 ms : 704366 ns
+Raw Time (ns):464704366
+
+
+
+
+Recursion Limit = 88
+Elements: 20000Time:0 hrs : 0 mins : 0 sec : 3 ms : 999183 ns
+Raw Time (ns):3999183
+Elements: 40000Time:0 hrs : 0 mins : 0 sec : 8 ms : 644614 ns
+Raw Time (ns):8644614
+Elements: 80000Time:0 hrs : 0 mins : 0 sec : 18 ms : 989339 ns
+Raw Time (ns):18989339
+Elements: 160000Time:0 hrs : 0 mins : 0 sec : 40 ms : 419977 ns
+Raw Time (ns):40419977
+Elements: 320000Time:0 hrs : 0 mins : 0 sec : 88 ms : 737882 ns
+Raw Time (ns):88737882
+Elements: 640000Time:0 hrs : 0 mins : 0 sec : 203 ms : 214595 ns
+Raw Time (ns):203214595
+Elements: 1280000Time:0 hrs : 0 mins : 0 sec : 459 ms : 597069 ns
+Raw Time (ns):459597069
+
+
+
+
+Recursion Limit = 90
+Elements: 20000Time:0 hrs : 0 mins : 0 sec : 3 ms : 963994 ns
+Raw Time (ns):3963994
+Elements: 40000Time:0 hrs : 0 mins : 0 sec : 8 ms : 761914 ns
+Raw Time (ns):8761914
+Elements: 80000Time:0 hrs : 0 mins : 0 sec : 18 ms : 975043 ns
+Raw Time (ns):18975043
+Elements: 160000Time:0 hrs : 0 mins : 0 sec : 40 ms : 494022 ns
+Raw Time (ns):40494022
+Elements: 320000Time:0 hrs : 0 mins : 0 sec : 88 ms : 979445 ns
+Raw Time (ns):88979445
+Elements: 640000Time:0 hrs : 0 mins : 0 sec : 203 ms : 896766 ns
+Raw Time (ns):203896766
+Elements: 1280000Time:0 hrs : 0 mins : 0 sec : 461 ms : 945993 ns
+Raw Time (ns):461945993
+
+
+
+
+Recursion Limit = 92
+Elements: 20000Time:0 hrs : 0 mins : 0 sec : 4 ms : 9814 ns
+Raw Time (ns):4009814
+Elements: 40000Time:0 hrs : 0 mins : 0 sec : 9 ms : 74957 ns
+Raw Time (ns):9074957
+Elements: 80000Time:0 hrs : 0 mins : 0 sec : 19 ms : 336106 ns
+Raw Time (ns):19336106
+Elements: 160000Time:0 hrs : 0 mins : 0 sec : 41 ms : 405293 ns
+Raw Time (ns):41405293
+Elements: 320000Time:0 hrs : 0 mins : 0 sec : 91 ms : 503220 ns
+Raw Time (ns):91503220
+Elements: 640000Time:0 hrs : 0 mins : 0 sec : 205 ms : 604209 ns
+Raw Time (ns):205604209
+Elements: 1280000Time:0 hrs : 0 mins : 0 sec : 461 ms : 496955 ns
+Raw Time (ns):461496955
+
+
+
+
+Recursion Limit = 94
+Elements: 20000Time:0 hrs : 0 mins : 0 sec : 4 ms : 63698 ns
+Raw Time (ns):4063698
+Elements: 40000Time:0 hrs : 0 mins : 0 sec : 8 ms : 896808 ns
+Raw Time (ns):8896808
+Elements: 80000Time:0 hrs : 0 mins : 0 sec : 19 ms : 208910 ns
+Raw Time (ns):19208910
+Elements: 160000Time:0 hrs : 0 mins : 0 sec : 41 ms : 405660 ns
+Raw Time (ns):41405660
+Elements: 320000Time:0 hrs : 0 mins : 0 sec : 90 ms : 317028 ns
+Raw Time (ns):90317028
+Elements: 640000Time:0 hrs : 0 mins : 0 sec : 205 ms : 242412 ns
+Raw Time (ns):205242412
+Elements: 1280000Time:0 hrs : 0 mins : 0 sec : 466 ms : 126624 ns
+Raw Time (ns):466126624
+
+
+
+
+Recursion Limit = 96
+Elements: 20000Time:0 hrs : 0 mins : 0 sec : 4 ms : 66631 ns
+Raw Time (ns):4066631
+Elements: 40000Time:0 hrs : 0 mins : 0 sec : 9 ms : 40867 ns
+Raw Time (ns):9040867
+Elements: 80000Time:0 hrs : 0 mins : 0 sec : 19 ms : 224671 ns
+Raw Time (ns):19224671
+Elements: 160000Time:0 hrs : 0 mins : 0 sec : 42 ms : 901596 ns
+Raw Time (ns):42901596
+Elements: 320000Time:0 hrs : 0 mins : 0 sec : 91 ms : 260190 ns
+Raw Time (ns):91260190
+Elements: 640000Time:0 hrs : 0 mins : 0 sec : 219 ms : 41611 ns
+Raw Time (ns):219041611
+Elements: 1280000Time:0 hrs : 0 mins : 0 sec : 470 ms : 920879 ns
+Raw Time (ns):470920879
+
+
+
+
+Recursion Limit = 98
+Elements: 20000Time:0 hrs : 0 mins : 0 sec : 4 ms : 100721 ns
+Raw Time (ns):4100721
+Elements: 40000Time:0 hrs : 0 mins : 0 sec : 9 ms : 17407 ns
+Raw Time (ns):9017407
+Elements: 80000Time:0 hrs : 0 mins : 0 sec : 19 ms : 915640 ns
+Raw Time (ns):19915640
+Elements: 160000Time:0 hrs : 0 mins : 0 sec : 41 ms : 594805 ns
+Raw Time (ns):41594805
+Elements: 320000Time:0 hrs : 0 mins : 0 sec : 92 ms : 706640 ns
+Raw Time (ns):92706640
+Elements: 640000Time:0 hrs : 0 mins : 0 sec : 228 ms : 532249 ns
+Raw Time (ns):228532249
+Elements: 1280000Time:0 hrs : 0 mins : 0 sec : 492 ms : 443157 ns
+Raw Time (ns):492443157
+
+
+
+
+Recursion Limit = 100
+Elements: 20000Time:0 hrs : 0 mins : 0 sec : 4 ms : 127479 ns
+Raw Time (ns):4127479
+Elements: 40000Time:0 hrs : 0 mins : 0 sec : 8 ms : 881412 ns
+Raw Time (ns):8881412
+Elements: 80000Time:0 hrs : 0 mins : 0 sec : 19 ms : 262061 ns
+Raw Time (ns):19262061
+Elements: 160000Time:0 hrs : 0 mins : 0 sec : 41 ms : 538722 ns
+Raw Time (ns):41538722
+Elements: 320000Time:0 hrs : 0 mins : 0 sec : 90 ms : 507273 ns
+Raw Time (ns):90507273
+Elements: 640000Time:0 hrs : 0 mins : 0 sec : 207 ms : 293690 ns
+Raw Time (ns):207293690
+Elements: 1280000Time:0 hrs : 0 mins : 0 sec : 467 ms : 736928 ns
+Raw Time (ns):467736928
+
+
+
+
+Recursion Limit = 102
+Elements: 20000Time:0 hrs : 0 mins : 0 sec : 4 ms : 92656 ns
+Raw Time (ns):4092656
+Elements: 40000Time:0 hrs : 0 mins : 0 sec : 9 ms : 35002 ns
+Raw Time (ns):9035002
+Elements: 80000Time:0 hrs : 0 mins : 0 sec : 19 ms : 267926 ns
+Raw Time (ns):19267926
+Elements: 160000Time:0 hrs : 0 mins : 0 sec : 41 ms : 895752 ns
+Raw Time (ns):41895752
+Elements: 320000Time:0 hrs : 0 mins : 0 sec : 94 ms : 26628 ns
+Raw Time (ns):94026628
+Elements: 640000Time:0 hrs : 0 mins : 0 sec : 207 ms : 997120 ns
+Raw Time (ns):207997120
+Elements: 1280000Time:0 hrs : 0 mins : 0 sec : 497 ms : 135507 ns
+Raw Time (ns):497135507
+
+
+
+
+Recursion Limit = 104
+Elements: 20000Time:0 hrs : 0 mins : 0 sec : 4 ms : 137010 ns
+Raw Time (ns):4137010
+Elements: 40000Time:0 hrs : 0 mins : 0 sec : 8 ms : 976352 ns
+Raw Time (ns):8976352
+Elements: 80000Time:0 hrs : 0 mins : 0 sec : 19 ms : 517554 ns
+Raw Time (ns):19517554
+Elements: 160000Time:0 hrs : 0 mins : 0 sec : 41 ms : 931675 ns
+Raw Time (ns):41931675
+Elements: 320000Time:0 hrs : 0 mins : 0 sec : 91 ms : 718025 ns
+Raw Time (ns):91718025
+Elements: 640000Time:0 hrs : 0 mins : 0 sec : 208 ms : 118086 ns
+Raw Time (ns):208118086
+Elements: 1280000Time:0 hrs : 0 mins : 0 sec : 470 ms : 145969 ns
+Raw Time (ns):470145969
+
+
+
+
+Recursion Limit = 106
+Elements: 20000Time:0 hrs : 0 mins : 0 sec : 4 ms : 200792 ns
+Raw Time (ns):4200792
+Elements: 40000Time:0 hrs : 0 mins : 0 sec : 8 ms : 980384 ns
+Raw Time (ns):8980384
+Elements: 80000Time:0 hrs : 0 mins : 0 sec : 19 ms : 611761 ns
+Raw Time (ns):19611761
+Elements: 160000Time:0 hrs : 0 mins : 0 sec : 41 ms : 749861 ns
+Raw Time (ns):41749861
+Elements: 320000Time:0 hrs : 0 mins : 0 sec : 92 ms : 494035 ns
+Raw Time (ns):92494035
+Elements: 640000Time:0 hrs : 0 mins : 0 sec : 209 ms : 756614 ns
+Raw Time (ns):209756614
+Elements: 1280000Time:0 hrs : 0 mins : 0 sec : 496 ms : 529948 ns
+Raw Time (ns):496529948
+
+
+
+
+Recursion Limit = 108
+Elements: 20000Time:0 hrs : 0 mins : 0 sec : 4 ms : 162670 ns
+Raw Time (ns):4162670
+Elements: 40000Time:0 hrs : 0 mins : 0 sec : 9 ms : 59194 ns
+Raw Time (ns):9059194
+Elements: 80000Time:0 hrs : 0 mins : 0 sec : 19 ms : 823632 ns
+Raw Time (ns):19823632
+Elements: 160000Time:0 hrs : 0 mins : 0 sec : 42 ms : 646470 ns
+Raw Time (ns):42646470
+Elements: 320000Time:0 hrs : 0 mins : 0 sec : 91 ms : 837890 ns
+Raw Time (ns):91837890
+Elements: 640000Time:0 hrs : 0 mins : 0 sec : 218 ms : 940807 ns
+Raw Time (ns):218940807
+Elements: 1280000Time:0 hrs : 0 mins : 0 sec : 473 ms : 431457 ns
+Raw Time (ns):473431457
+
+
+
+
+Recursion Limit = 110
+Elements: 20000Time:0 hrs : 0 mins : 0 sec : 4 ms : 245512 ns
+Raw Time (ns):4245512
+Elements: 40000Time:0 hrs : 0 mins : 0 sec : 9 ms : 121877 ns
+Raw Time (ns):9121877
+Elements: 80000Time:0 hrs : 0 mins : 0 sec : 19 ms : 574005 ns
+Raw Time (ns):19574005
+Elements: 160000Time:0 hrs : 0 mins : 0 sec : 42 ms : 465022 ns
+Raw Time (ns):42465022
+Elements: 320000Time:0 hrs : 0 mins : 0 sec : 92 ms : 575045 ns
+Raw Time (ns):92575045
+Elements: 640000Time:0 hrs : 0 mins : 0 sec : 211 ms : 359220 ns
+Raw Time (ns):211359220
+Elements: 1280000Time:0 hrs : 0 mins : 0 sec : 474 ms : 831354 ns
+Raw Time (ns):474831354
+
+
+
+
+Recursion Limit = 112
+Elements: 20000Time:0 hrs : 0 mins : 0 sec : 4 ms : 233783 ns
+Raw Time (ns):4233783
+Elements: 40000Time:0 hrs : 0 mins : 0 sec : 9 ms : 161832 ns
+Raw Time (ns):9161832
+Elements: 80000Time:0 hrs : 0 mins : 0 sec : 19 ms : 767549 ns
+Raw Time (ns):19767549
+Elements: 160000Time:0 hrs : 0 mins : 0 sec : 42 ms : 287239 ns
+Raw Time (ns):42287239
+Elements: 320000Time:0 hrs : 0 mins : 0 sec : 93 ms : 493281 ns
+Raw Time (ns):93493281
+Elements: 640000Time:0 hrs : 0 mins : 0 sec : 220 ms : 183083 ns
+Raw Time (ns):220183083
+Elements: 1280000Time:0 hrs : 0 mins : 0 sec : 480 ms : 276988 ns
+Raw Time (ns):480276988
+
+
+
+
+Recursion Limit = 114
+Elements: 20000Time:0 hrs : 0 mins : 0 sec : 4 ms : 251744 ns
+Raw Time (ns):4251744
+Elements: 40000Time:0 hrs : 0 mins : 0 sec : 9 ms : 293794 ns
+Raw Time (ns):9293794
+Elements: 80000Time:0 hrs : 0 mins : 0 sec : 20 ms : 34772 ns
+Raw Time (ns):20034772
+Elements: 160000Time:0 hrs : 0 mins : 0 sec : 42 ms : 945584 ns
+Raw Time (ns):42945584
+Elements: 320000Time:0 hrs : 0 mins : 0 sec : 94 ms : 854690 ns
+Raw Time (ns):94854690
+Elements: 640000Time:0 hrs : 0 mins : 0 sec : 211 ms : 689125 ns
+Raw Time (ns):211689125
+Elements: 1280000Time:0 hrs : 0 mins : 0 sec : 478 ms : 87884 ns
+Raw Time (ns):478087884
+
+
+
+
+Recursion Limit = 116
+Elements: 20000Time:0 hrs : 0 mins : 0 sec : 4 ms : 212522 ns
+Raw Time (ns):4212522
+Elements: 40000Time:0 hrs : 0 mins : 0 sec : 9 ms : 386534 ns
+Raw Time (ns):9386534
+Elements: 80000Time:0 hrs : 0 mins : 0 sec : 19 ms : 929936 ns
+Raw Time (ns):19929936
+Elements: 160000Time:0 hrs : 0 mins : 0 sec : 42 ms : 580855 ns
+Raw Time (ns):42580855
+Elements: 320000Time:0 hrs : 0 mins : 0 sec : 94 ms : 803371 ns
+Raw Time (ns):94803371
+Elements: 640000Time:0 hrs : 0 mins : 0 sec : 210 ms : 992292 ns
+Raw Time (ns):210992292
+Elements: 1280000Time:0 hrs : 0 mins : 0 sec : 503 ms : 253781 ns
+Raw Time (ns):503253781
+
+
+
+
+Recursion Limit = 118
+Elements: 20000Time:0 hrs : 0 mins : 0 sec : 4 ms : 354015 ns
+Raw Time (ns):4354015
+Elements: 40000Time:0 hrs : 0 mins : 0 sec : 9 ms : 561750 ns
+Raw Time (ns):9561750
+Elements: 80000Time:0 hrs : 0 mins : 0 sec : 20 ms : 69962 ns
+Raw Time (ns):20069962
+Elements: 160000Time:0 hrs : 0 mins : 0 sec : 44 ms : 360144 ns
+Raw Time (ns):44360144
+Elements: 320000Time:0 hrs : 0 mins : 0 sec : 94 ms : 749853 ns
+Raw Time (ns):94749853
+Elements: 640000Time:0 hrs : 0 mins : 0 sec : 220 ms : 719362 ns
+Raw Time (ns):220719362
+Elements: 1280000Time:0 hrs : 0 mins : 0 sec : 479 ms : 430965 ns
+Raw Time (ns):479430965
+
+
+
+
+Recursion Limit = 120
+Elements: 20000Time:0 hrs : 0 mins : 0 sec : 4 ms : 253944 ns
+Raw Time (ns):4253944
+Elements: 40000Time:0 hrs : 0 mins : 0 sec : 9 ms : 319820 ns
+Raw Time (ns):9319820
+Elements: 80000Time:0 hrs : 0 mins : 0 sec : 20 ms : 97821 ns
+Raw Time (ns):20097821
+Elements: 160000Time:0 hrs : 0 mins : 0 sec : 43 ms : 109436 ns
+Raw Time (ns):43109436
+Elements: 320000Time:0 hrs : 0 mins : 0 sec : 94 ms : 876683 ns
+Raw Time (ns):94876683
+Elements: 640000Time:0 hrs : 0 mins : 0 sec : 213 ms : 495539 ns
+Raw Time (ns):213495539
+Elements: 1280000Time:0 hrs : 0 mins : 0 sec : 479 ms : 312199 ns
+Raw Time (ns):479312199
+
+
+
+
+Recursion Limit = 122
+Elements: 20000Time:0 hrs : 0 mins : 0 sec : 4 ms : 248812 ns
+Raw Time (ns):4248812
+Elements: 40000Time:0 hrs : 0 mins : 0 sec : 9 ms : 339615 ns
+Raw Time (ns):9339615
+Elements: 80000Time:0 hrs : 0 mins : 0 sec : 20 ms : 308594 ns
+Raw Time (ns):20308594
+Elements: 160000Time:0 hrs : 0 mins : 0 sec : 43 ms : 209141 ns
+Raw Time (ns):43209141
+Elements: 320000Time:0 hrs : 0 mins : 0 sec : 95 ms : 722706 ns
+Raw Time (ns):95722706
+Elements: 640000Time:0 hrs : 0 mins : 0 sec : 215 ms : 82750 ns
+Raw Time (ns):215082750
+Elements: 1280000Time:0 hrs : 0 mins : 0 sec : 488 ms : 314210 ns
+Raw Time (ns):488314210
+
+
+
+
+Recursion Limit = 124
+Elements: 20000Time:0 hrs : 0 mins : 0 sec : 4 ms : 287667 ns
+Raw Time (ns):4287667
+Elements: 40000Time:0 hrs : 0 mins : 0 sec : 9 ms : 411827 ns
+Raw Time (ns):9411827
+Elements: 80000Time:0 hrs : 0 mins : 0 sec : 20 ms : 114316 ns
+Raw Time (ns):20114316
+Elements: 160000Time:0 hrs : 0 mins : 0 sec : 43 ms : 339270 ns
+Raw Time (ns):43339270
+Elements: 320000Time:0 hrs : 0 mins : 0 sec : 95 ms : 405631 ns
+Raw Time (ns):95405631
+Elements: 640000Time:0 hrs : 0 mins : 0 sec : 214 ms : 515313 ns
+Raw Time (ns):214515313
+Elements: 1280000Time:0 hrs : 0 mins : 0 sec : 489 ms : 143372 ns
+Raw Time (ns):489143372
+
+
+
+
+Recursion Limit = 126
+Elements: 20000Time:0 hrs : 0 mins : 0 sec : 4 ms : 376375 ns
+Raw Time (ns):4376375
+Elements: 40000Time:0 hrs : 0 mins : 0 sec : 10 ms : 280944 ns
+Raw Time (ns):10280944
+Elements: 80000Time:0 hrs : 0 mins : 0 sec : 20 ms : 376041 ns
+Raw Time (ns):20376041
+Elements: 160000Time:0 hrs : 0 mins : 0 sec : 43 ms : 524017 ns
+Raw Time (ns):43524017
+Elements: 320000Time:0 hrs : 0 mins : 0 sec : 95 ms : 84157 ns
+Raw Time (ns):95084157
+Elements: 640000Time:0 hrs : 0 mins : 0 sec : 215 ms : 360603 ns
+Raw Time (ns):215360603
+Elements: 1280000Time:0 hrs : 0 mins : 0 sec : 490 ms : 492318 ns
+Raw Time (ns):490492318
+
+
+
+
+Recursion Limit = 128
+Elements: 20000Time:0 hrs : 0 mins : 0 sec : 4 ms : 365379 ns
+Raw Time (ns):4365379
+Elements: 40000Time:0 hrs : 0 mins : 0 sec : 11 ms : 229604 ns
+Raw Time (ns):11229604
+Elements: 80000Time:0 hrs : 0 mins : 0 sec : 20 ms : 856235 ns
+Raw Time (ns):20856235
+Elements: 160000Time:0 hrs : 0 mins : 0 sec : 45 ms : 672799 ns
+Raw Time (ns):45672799
+Elements: 320000Time:0 hrs : 0 mins : 0 sec : 98 ms : 596547 ns
+Raw Time (ns):98596547
+Elements: 640000Time:0 hrs : 0 mins : 0 sec : 218 ms : 252771 ns
+Raw Time (ns):218252771
+Elements: 1280000Time:0 hrs : 0 mins : 0 sec : 492 ms : 736038 ns
+Raw Time (ns):492736038
+
+
+
+
+Recursion Limit = 130
+Elements: 20000Time:0 hrs : 0 mins : 0 sec : 4 ms : 803419 ns
+Raw Time (ns):4803419
+Elements: 40000Time:0 hrs : 0 mins : 0 sec : 11 ms : 262595 ns
+Raw Time (ns):11262595
+Elements: 80000Time:0 hrs : 0 mins : 0 sec : 20 ms : 837541 ns
+Raw Time (ns):20837541
+Elements: 160000Time:0 hrs : 0 mins : 0 sec : 43 ms : 766314 ns
+Raw Time (ns):43766314
+Elements: 320000Time:0 hrs : 0 mins : 0 sec : 95 ms : 797852 ns
+Raw Time (ns):95797852
+Elements: 640000Time:0 hrs : 0 mins : 0 sec : 216 ms : 766365 ns
+Raw Time (ns):216766365
+Elements: 1280000Time:0 hrs : 0 mins : 0 sec : 491 ms : 359601 ns
+Raw Time (ns):491359601
+
+
+
+
+Recursion Limit = 132
+Elements: 20000Time:0 hrs : 0 mins : 0 sec : 4 ms : 420363 ns
+Raw Time (ns):4420363
+Elements: 40000Time:0 hrs : 0 mins : 0 sec : 9 ms : 448116 ns
+Raw Time (ns):9448116
+Elements: 80000Time:0 hrs : 0 mins : 0 sec : 20 ms : 795387 ns
+Raw Time (ns):20795387
+Elements: 160000Time:0 hrs : 0 mins : 0 sec : 44 ms : 593643 ns
+Raw Time (ns):44593643
+Elements: 320000Time:0 hrs : 0 mins : 0 sec : 99 ms : 154453 ns
+Raw Time (ns):99154453
+Elements: 640000Time:0 hrs : 0 mins : 0 sec : 224 ms : 57268 ns
+Raw Time (ns):224057268
+Elements: 1280000Time:0 hrs : 0 mins : 0 sec : 489 ms : 782288 ns
+Raw Time (ns):489782288
+
+
+
+
+Recursion Limit = 134
+Elements: 20000Time:0 hrs : 0 mins : 0 sec : 4 ms : 453353 ns
+Raw Time (ns):4453353
+Elements: 40000Time:0 hrs : 0 mins : 0 sec : 9 ms : 596940 ns
+Raw Time (ns):9596940
+Elements: 80000Time:0 hrs : 0 mins : 0 sec : 20 ms : 582048 ns
+Raw Time (ns):20582048
+Elements: 160000Time:0 hrs : 0 mins : 0 sec : 44 ms : 565051 ns
+Raw Time (ns):44565051
+Elements: 320000Time:0 hrs : 0 mins : 0 sec : 97 ms : 159626 ns
+Raw Time (ns):97159626
+Elements: 640000Time:0 hrs : 0 mins : 0 sec : 216 ms : 483747 ns
+Raw Time (ns):216483747
+Elements: 1280000Time:0 hrs : 0 mins : 0 sec : 510 ms : 979426 ns
+Raw Time (ns):510979426
+
+
+
+
+Recursion Limit = 136
+Elements: 20000Time:0 hrs : 0 mins : 0 sec : 4 ms : 468015 ns
+Raw Time (ns):4468015
+Elements: 40000Time:0 hrs : 0 mins : 0 sec : 9 ms : 848401 ns
+Raw Time (ns):9848401
+Elements: 80000Time:0 hrs : 0 mins : 0 sec : 20 ms : 842673 ns
+Raw Time (ns):20842673
+Elements: 160000Time:0 hrs : 0 mins : 0 sec : 44 ms : 786820 ns
+Raw Time (ns):44786820
+Elements: 320000Time:0 hrs : 0 mins : 0 sec : 97 ms : 999418 ns
+Raw Time (ns):97999418
+Elements: 640000Time:0 hrs : 0 mins : 0 sec : 224 ms : 696551 ns
+Raw Time (ns):224696551
+Elements: 1280000Time:0 hrs : 0 mins : 0 sec : 491 ms : 729462 ns
+Raw Time (ns):491729462
+
+
+
+
+Recursion Limit = 138
+Elements: 20000Time:0 hrs : 0 mins : 0 sec : 4 ms : 439424 ns
+Raw Time (ns):4439424
+Elements: 40000Time:0 hrs : 0 mins : 0 sec : 9 ms : 734767 ns
+Raw Time (ns):9734767
+Elements: 80000Time:0 hrs : 0 mins : 0 sec : 20 ms : 849637 ns
+Raw Time (ns):20849637
+Elements: 160000Time:0 hrs : 0 mins : 0 sec : 45 ms : 344727 ns
+Raw Time (ns):45344727
+Elements: 320000Time:0 hrs : 0 mins : 0 sec : 98 ms : 54403 ns
+Raw Time (ns):98054403
+Elements: 640000Time:0 hrs : 0 mins : 0 sec : 218 ms : 579743 ns
+Raw Time (ns):218579743
+Elements: 1280000Time:0 hrs : 0 mins : 0 sec : 514 ms : 933522 ns
+Raw Time (ns):514933522
+
+
+
+
+Recursion Limit = 140
+Elements: 20000Time:0 hrs : 0 mins : 0 sec : 4 ms : 402034 ns
+Raw Time (ns):4402034
+Elements: 40000Time:0 hrs : 0 mins : 0 sec : 9 ms : 716806 ns
+Raw Time (ns):9716806
+Elements: 80000Time:0 hrs : 0 mins : 0 sec : 20 ms : 873464 ns
+Raw Time (ns):20873464
+Elements: 160000Time:0 hrs : 0 mins : 0 sec : 45 ms : 437467 ns
+Raw Time (ns):45437467
+Elements: 320000Time:0 hrs : 0 mins : 0 sec : 97 ms : 695906 ns
+Raw Time (ns):97695906
+Elements: 640000Time:0 hrs : 0 mins : 0 sec : 230 ms : 193138 ns
+Raw Time (ns):230193138
+Elements: 1280000Time:0 hrs : 0 mins : 0 sec : 499 ms : 133633 ns
+Raw Time (ns):499133633
+
+
+
+
+Recursion Limit = 142
+Elements: 20000Time:0 hrs : 0 mins : 0 sec : 4 ms : 524832 ns
+Raw Time (ns):4524832
+Elements: 40000Time:0 hrs : 0 mins : 0 sec : 9 ms : 901187 ns
+Raw Time (ns):9901187
+Elements: 80000Time:0 hrs : 0 mins : 0 sec : 20 ms : 884827 ns
+Raw Time (ns):20884827
+Elements: 160000Time:0 hrs : 0 mins : 0 sec : 45 ms : 291209 ns
+Raw Time (ns):45291209
+Elements: 320000Time:0 hrs : 0 mins : 0 sec : 98 ms : 582617 ns
+Raw Time (ns):98582617
+Elements: 640000Time:0 hrs : 0 mins : 0 sec : 223 ms : 327079 ns
+Raw Time (ns):223327079
+Elements: 1280000Time:0 hrs : 0 mins : 0 sec : 508 ms : 740470 ns
+Raw Time (ns):508740470
+
+
+
+
+Recursion Limit = 144
+Elements: 20000Time:0 hrs : 0 mins : 0 sec : 4 ms : 565887 ns
+Raw Time (ns):4565887
+Elements: 40000Time:0 hrs : 0 mins : 0 sec : 9 ms : 734034 ns
+Raw Time (ns):9734034
+Elements: 80000Time:0 hrs : 0 mins : 0 sec : 21 ms : 48680 ns
+Raw Time (ns):21048680
+Elements: 160000Time:0 hrs : 0 mins : 0 sec : 45 ms : 468624 ns
+Raw Time (ns):45468624
+Elements: 320000Time:0 hrs : 0 mins : 0 sec : 98 ms : 883931 ns
+Raw Time (ns):98883931
+Elements: 640000Time:0 hrs : 0 mins : 0 sec : 227 ms : 147747 ns
+Raw Time (ns):227147747
+Elements: 1280000Time:0 hrs : 0 mins : 0 sec : 510 ms : 383030 ns
+Raw Time (ns):510383030
+
+
+
+
+Recursion Limit = 146
+Elements: 20000Time:0 hrs : 0 mins : 0 sec : 4 ms : 639932 ns
+Raw Time (ns):4639932
+Elements: 40000Time:0 hrs : 0 mins : 0 sec : 10 ms : 82634 ns
+Raw Time (ns):10082634
+Elements: 80000Time:0 hrs : 0 mins : 0 sec : 25 ms : 679449 ns
+Raw Time (ns):25679449
+Elements: 160000Time:0 hrs : 0 mins : 0 sec : 47 ms : 244614 ns
+Raw Time (ns):47244614
+Elements: 320000Time:0 hrs : 0 mins : 0 sec : 107 ms : 947524 ns
+Raw Time (ns):107947524
+Elements: 640000Time:0 hrs : 0 mins : 0 sec : 233 ms : 287648 ns
+Raw Time (ns):233287648
+Elements: 1280000Time:0 hrs : 0 mins : 0 sec : 537 ms : 244640 ns
+Raw Time (ns):537244640
+
+
+
+
+Recursion Limit = 148
+Elements: 20000Time:0 hrs : 0 mins : 0 sec : 4 ms : 536929 ns
+Raw Time (ns):4536929
+Elements: 40000Time:0 hrs : 0 mins : 0 sec : 11 ms : 591767 ns
+Raw Time (ns):11591767
+Elements: 80000Time:0 hrs : 0 mins : 0 sec : 21 ms : 768607 ns
+Raw Time (ns):21768607
+Elements: 160000Time:0 hrs : 0 mins : 0 sec : 46 ms : 778715 ns
+Raw Time (ns):46778715
+Elements: 320000Time:0 hrs : 0 mins : 0 sec : 106 ms : 730908 ns
+Raw Time (ns):106730908
+Elements: 640000Time:0 hrs : 0 mins : 0 sec : 243 ms : 783396 ns
+Raw Time (ns):243783396
+Elements: 1280000Time:0 hrs : 0 mins : 0 sec : 546 ms : 318864 ns
+Raw Time (ns):546318864
+
+
+
+
+Recursion Limit = 150
+Elements: 20000Time:0 hrs : 0 mins : 0 sec : 4 ms : 599977 ns
+Raw Time (ns):4599977
+Elements: 40000Time:0 hrs : 0 mins : 0 sec : 10 ms : 102795 ns
+Raw Time (ns):10102795
+Elements: 80000Time:0 hrs : 0 mins : 0 sec : 21 ms : 534741 ns
+Raw Time (ns):21534741
+Elements: 160000Time:0 hrs : 0 mins : 0 sec : 45 ms : 717886 ns
+Raw Time (ns):45717886
+Elements: 320000Time:0 hrs : 0 mins : 0 sec : 103 ms : 37803 ns
+Raw Time (ns):103037803
+Elements: 640000Time:0 hrs : 0 mins : 0 sec : 251 ms : 504276 ns
+Raw Time (ns):251504276
+Elements: 1280000Time:0 hrs : 0 mins : 0 sec : 511 ms : 806021 ns
+Raw Time (ns):511806021
+
+
+
+
+Recursion Limit = 152
+Elements: 20000Time:0 hrs : 0 mins : 0 sec : 4 ms : 617205 ns
+Raw Time (ns):4617205
+Elements: 40000Time:0 hrs : 0 mins : 0 sec : 9 ms : 943340 ns
+Raw Time (ns):9943340
+Elements: 80000Time:0 hrs : 0 mins : 0 sec : 21 ms : 196405 ns
+Raw Time (ns):21196405
+Elements: 160000Time:0 hrs : 0 mins : 0 sec : 45 ms : 816491 ns
+Raw Time (ns):45816491
+Elements: 320000Time:0 hrs : 0 mins : 0 sec : 107 ms : 101868 ns
+Raw Time (ns):107101868
+Elements: 640000Time:0 hrs : 0 mins : 0 sec : 233 ms : 285815 ns
+Raw Time (ns):233285815
+Elements: 1280000Time:0 hrs : 0 mins : 0 sec : 518 ms : 681611 ns
+Raw Time (ns):518681611
+
+
+
+
+Recursion Limit = 154
+Elements: 20000Time:0 hrs : 0 mins : 0 sec : 4 ms : 596679 ns
+Raw Time (ns):4596679
+Elements: 40000Time:0 hrs : 0 mins : 0 sec : 10 ms : 28016 ns
+Raw Time (ns):10028016
+Elements: 80000Time:0 hrs : 0 mins : 0 sec : 21 ms : 854016 ns
+Raw Time (ns):21854016
+Elements: 160000Time:0 hrs : 0 mins : 0 sec : 46 ms : 562443 ns
+Raw Time (ns):46562443
+Elements: 320000Time:0 hrs : 0 mins : 0 sec : 102 ms : 299182 ns
+Raw Time (ns):102299182
+Elements: 640000Time:0 hrs : 0 mins : 0 sec : 265 ms : 904268 ns
+Raw Time (ns):265904268
+Elements: 1280000Time:0 hrs : 0 mins : 0 sec : 558 ms : 477700 ns
+Raw Time (ns):558477700
+
+
+
+
+Recursion Limit = 156
+Elements: 20000Time:0 hrs : 0 mins : 0 sec : 5 ms : 223132 ns
+Raw Time (ns):5223132
+Elements: 40000Time:0 hrs : 0 mins : 0 sec : 10 ms : 657402 ns
+Raw Time (ns):10657402
+Elements: 80000Time:0 hrs : 0 mins : 0 sec : 22 ms : 25566 ns
+Raw Time (ns):22025566
+Elements: 160000Time:0 hrs : 0 mins : 0 sec : 48 ms : 371057 ns
+Raw Time (ns):48371057
+Elements: 320000Time:0 hrs : 0 mins : 0 sec : 106 ms : 172268 ns
+Raw Time (ns):106172268
+Elements: 640000Time:0 hrs : 0 mins : 0 sec : 231 ms : 867956 ns
+Raw Time (ns):231867956
+Elements: 1280000Time:0 hrs : 0 mins : 0 sec : 535 ms : 386908 ns
+Raw Time (ns):535386908
+
+
+
+
+Recursion Limit = 158
+Elements: 20000Time:0 hrs : 0 mins : 0 sec : 4 ms : 663025 ns
+Raw Time (ns):4663025
+Elements: 40000Time:0 hrs : 0 mins : 0 sec : 10 ms : 231458 ns
+Raw Time (ns):10231458
+Elements: 80000Time:0 hrs : 0 mins : 0 sec : 21 ms : 999907 ns
+Raw Time (ns):21999907
+Elements: 160000Time:0 hrs : 0 mins : 0 sec : 47 ms : 365212 ns
+Raw Time (ns):47365212
+Elements: 320000Time:0 hrs : 0 mins : 0 sec : 110 ms : 705898 ns
+Raw Time (ns):110705898
+Elements: 640000Time:0 hrs : 0 mins : 0 sec : 299 ms : 602611 ns
+Raw Time (ns):299602611
+Elements: 1280000Time:0 hrs : 0 mins : 0 sec : 564 ms : 845236 ns
+Raw Time (ns):564845236
+
+
+
+
+Recursion Limit = 160
+Elements: 20000Time:0 hrs : 0 mins : 0 sec : 5 ms : 981180 ns
+Raw Time (ns):5981180
+Elements: 40000Time:0 hrs : 0 mins : 0 sec : 10 ms : 777634 ns
+Raw Time (ns):10777634
+Elements: 80000Time:0 hrs : 0 mins : 0 sec : 27 ms : 914006 ns
+Raw Time (ns):27914006
+Elements: 160000Time:0 hrs : 0 mins : 0 sec : 56 ms : 433205 ns
+Raw Time (ns):56433205
+Elements: 320000Time:0 hrs : 0 mins : 0 sec : 114 ms : 246513 ns
+Raw Time (ns):114246513
+Elements: 640000Time:0 hrs : 0 mins : 0 sec : 269 ms : 773322 ns
+Raw Time (ns):269773322
+Elements: 1280000Time:0 hrs : 0 mins : 0 sec : 544 ms : 899905 ns
+Raw Time (ns):544899905
+
+
+
+
+Recursion Limit = 162
+Elements: 20000Time:0 hrs : 0 mins : 0 sec : 4 ms : 697482 ns
+Raw Time (ns):4697482
+Elements: 40000Time:0 hrs : 0 mins : 0 sec : 10 ms : 81534 ns
+Raw Time (ns):10081534
+Elements: 80000Time:0 hrs : 0 mins : 0 sec : 22 ms : 140666 ns
+Raw Time (ns):22140666
+Elements: 160000Time:0 hrs : 0 mins : 0 sec : 48 ms : 367758 ns
+Raw Time (ns):48367758
+Elements: 320000Time:0 hrs : 0 mins : 0 sec : 104 ms : 538139 ns
+Raw Time (ns):104538139
+Elements: 640000Time:0 hrs : 0 mins : 0 sec : 232 ms : 161938 ns
+Raw Time (ns):232161938
+Elements: 1280000Time:0 hrs : 0 mins : 0 sec : 551 ms : 614207 ns
+Raw Time (ns):551614207
+
+
+
+
+Recursion Limit = 164
+Elements: 20000Time:0 hrs : 0 mins : 0 sec : 5 ms : 2094 ns
+Raw Time (ns):5002094
+Elements: 40000Time:0 hrs : 0 mins : 0 sec : 10 ms : 383215 ns
+Raw Time (ns):10383215
+Elements: 80000Time:0 hrs : 0 mins : 0 sec : 23 ms : 217990 ns
+Raw Time (ns):23217990
+Elements: 160000Time:0 hrs : 0 mins : 0 sec : 47 ms : 858970 ns
+Raw Time (ns):47858970
+Elements: 320000Time:0 hrs : 0 mins : 0 sec : 105 ms : 653584 ns
+Raw Time (ns):105653584
+Elements: 640000Time:0 hrs : 0 mins : 0 sec : 235 ms : 499844 ns
+Raw Time (ns):235499844
+Elements: 1280000Time:0 hrs : 0 mins : 0 sec : 541 ms : 347193 ns
+Raw Time (ns):541347193
+
+
+
+
+Recursion Limit = 166
+Elements: 20000Time:0 hrs : 0 mins : 0 sec : 4 ms : 775927 ns
+Raw Time (ns):4775927
+Elements: 40000Time:0 hrs : 0 mins : 0 sec : 10 ms : 359021 ns
+Raw Time (ns):10359021
+Elements: 80000Time:0 hrs : 0 mins : 0 sec : 22 ms : 151663 ns
+Raw Time (ns):22151663
+Elements: 160000Time:0 hrs : 0 mins : 0 sec : 46 ms : 541549 ns
+Raw Time (ns):46541549
+Elements: 320000Time:0 hrs : 0 mins : 0 sec : 107 ms : 702662 ns
+Raw Time (ns):107702662
+Elements: 640000Time:0 hrs : 0 mins : 0 sec : 236 ms : 809202 ns
+Raw Time (ns):236809202
+Elements: 1280000Time:0 hrs : 0 mins : 0 sec : 606 ms : 22528 ns
+Raw Time (ns):606022528
+
+
+
+
+Recursion Limit = 168
+Elements: 20000Time:0 hrs : 0 mins : 0 sec : 5 ms : 421441 ns
+Raw Time (ns):5421441
+Elements: 40000Time:0 hrs : 0 mins : 0 sec : 10 ms : 428667 ns
+Raw Time (ns):10428667
+Elements: 80000Time:0 hrs : 0 mins : 0 sec : 22 ms : 911545 ns
+Raw Time (ns):22911545
+Elements: 160000Time:0 hrs : 0 mins : 0 sec : 54 ms : 888883 ns
+Raw Time (ns):54888883
+Elements: 320000Time:0 hrs : 0 mins : 0 sec : 108 ms : 328748 ns
+Raw Time (ns):108328748
+Elements: 640000Time:0 hrs : 0 mins : 0 sec : 250 ms : 453712 ns
+Raw Time (ns):250453712
+Elements: 1280000Time:0 hrs : 0 mins : 0 sec : 523 ms : 571538 ns
+Raw Time (ns):523571538
+
+
+
+
+Recursion Limit = 170
+Elements: 20000Time:0 hrs : 0 mins : 0 sec : 5 ms : 201504 ns
+Raw Time (ns):5201504
+Elements: 40000Time:0 hrs : 0 mins : 0 sec : 10 ms : 464224 ns
+Raw Time (ns):10464224
+Elements: 80000Time:0 hrs : 0 mins : 0 sec : 22 ms : 259432 ns
+Raw Time (ns):22259432
+Elements: 160000Time:0 hrs : 0 mins : 0 sec : 50 ms : 65669 ns
+Raw Time (ns):50065669
+Elements: 320000Time:0 hrs : 0 mins : 0 sec : 106 ms : 732374 ns
+Raw Time (ns):106732374
+Elements: 640000Time:0 hrs : 0 mins : 0 sec : 245 ms : 674486 ns
+Raw Time (ns):245674486
+Elements: 1280000Time:0 hrs : 0 mins : 0 sec : 568 ms : 300442 ns
+Raw Time (ns):568300442
+
+
+
+
+Recursion Limit = 172
+Elements: 20000Time:0 hrs : 0 mins : 0 sec : 5 ms : 374154 ns
+Raw Time (ns):5374154
+Elements: 40000Time:0 hrs : 0 mins : 0 sec : 10 ms : 467157 ns
+Raw Time (ns):10467157
+Elements: 80000Time:0 hrs : 0 mins : 0 sec : 22 ms : 910445 ns
+Raw Time (ns):22910445
+Elements: 160000Time:0 hrs : 0 mins : 0 sec : 49 ms : 13639 ns
+Raw Time (ns):49013639
+Elements: 320000Time:0 hrs : 0 mins : 0 sec : 110 ms : 750252 ns
+Raw Time (ns):110750252
+Elements: 640000Time:0 hrs : 0 mins : 0 sec : 259 ms : 472217 ns
+Raw Time (ns):259472217
+Elements: 1280000Time:0 hrs : 0 mins : 0 sec : 521 ms : 488371 ns
+Raw Time (ns):521488371
+
+
+
+
+Recursion Limit = 174
+Elements: 20000Time:0 hrs : 0 mins : 0 sec : 4 ms : 788390 ns
+Raw Time (ns):4788390
+Elements: 40000Time:0 hrs : 0 mins : 0 sec : 10 ms : 550000 ns
+Raw Time (ns):10550000
+Elements: 80000Time:0 hrs : 0 mins : 0 sec : 22 ms : 519690 ns
+Raw Time (ns):22519690
+Elements: 160000Time:0 hrs : 0 mins : 0 sec : 47 ms : 984702 ns
+Raw Time (ns):47984702
+Elements: 320000Time:0 hrs : 0 mins : 0 sec : 106 ms : 312662 ns
+Raw Time (ns):106312662
+Elements: 640000Time:0 hrs : 0 mins : 0 sec : 276 ms : 584030 ns
+Raw Time (ns):276584030
+Elements: 1280000Time:0 hrs : 0 mins : 0 sec : 547 ms : 886280 ns
+Raw Time (ns):547886280
+
+
+
+
+Recursion Limit = 176
+Elements: 20000Time:0 hrs : 0 mins : 0 sec : 4 ms : 916686 ns
+Raw Time (ns):4916686
+Elements: 40000Time:0 hrs : 0 mins : 0 sec : 10 ms : 519942 ns
+Raw Time (ns):10519942
+Elements: 80000Time:0 hrs : 0 mins : 0 sec : 22 ms : 945635 ns
+Raw Time (ns):22945635
+Elements: 160000Time:0 hrs : 0 mins : 0 sec : 49 ms : 538554 ns
+Raw Time (ns):49538554
+Elements: 320000Time:0 hrs : 0 mins : 0 sec : 104 ms : 470691 ns
+Raw Time (ns):104470691
+Elements: 640000Time:0 hrs : 0 mins : 0 sec : 235 ms : 67669 ns
+Raw Time (ns):235067669
+Elements: 1280000Time:0 hrs : 0 mins : 0 sec : 539 ms : 16230 ns
+Raw Time (ns):539016230
+
+
+
+
+Recursion Limit = 178
+Elements: 20000Time:0 hrs : 0 mins : 0 sec : 4 ms : 770428 ns
+Raw Time (ns):4770428
+Elements: 40000Time:0 hrs : 0 mins : 0 sec : 10 ms : 790464 ns
+Raw Time (ns):10790464
+Elements: 80000Time:0 hrs : 0 mins : 0 sec : 23 ms : 21146 ns
+Raw Time (ns):23021146
+Elements: 160000Time:0 hrs : 0 mins : 0 sec : 65 ms : 926409 ns
+Raw Time (ns):65926409
+Elements: 320000Time:0 hrs : 0 mins : 0 sec : 126 ms : 769345 ns
+Raw Time (ns):126769345
+Elements: 640000Time:0 hrs : 0 mins : 0 sec : 268 ms : 158620 ns
+Raw Time (ns):268158620
+Elements: 1280000Time:0 hrs : 0 mins : 0 sec : 540 ms : 500071 ns
+Raw Time (ns):540500071
+
+
+
+
+Recursion Limit = 180
+Elements: 20000Time:0 hrs : 0 mins : 0 sec : 4 ms : 994031 ns
+Raw Time (ns):4994031
+Elements: 40000Time:0 hrs : 0 mins : 0 sec : 11 ms : 279456 ns
+Raw Time (ns):11279456
+Elements: 80000Time:0 hrs : 0 mins : 0 sec : 25 ms : 886190 ns
+Raw Time (ns):25886190
+Elements: 160000Time:0 hrs : 0 mins : 0 sec : 56 ms : 323237 ns
+Raw Time (ns):56323237
+Elements: 320000Time:0 hrs : 0 mins : 0 sec : 117 ms : 169106 ns
+Raw Time (ns):117169106
+Elements: 640000Time:0 hrs : 0 mins : 0 sec : 236 ms : 78645 ns
+Raw Time (ns):236078645
+Elements: 1280000Time:0 hrs : 0 mins : 0 sec : 533 ms : 551168 ns
+Raw Time (ns):533551168
+
+
+
+
+Recursion Limit = 182
+Elements: 20000Time:0 hrs : 0 mins : 0 sec : 4 ms : 962140 ns
+Raw Time (ns):4962140
+Elements: 40000Time:0 hrs : 0 mins : 0 sec : 10 ms : 553665 ns
+Raw Time (ns):10553665
+Elements: 80000Time:0 hrs : 0 mins : 0 sec : 22 ms : 695274 ns
+Raw Time (ns):22695274
+Elements: 160000Time:0 hrs : 0 mins : 0 sec : 48 ms : 145621 ns
+Raw Time (ns):48145621
+Elements: 320000Time:0 hrs : 0 mins : 0 sec : 107 ms : 976483 ns
+Raw Time (ns):107976483
+Elements: 640000Time:0 hrs : 0 mins : 0 sec : 283 ms : 979404 ns
+Raw Time (ns):283979404
+Elements: 1280000Time:0 hrs : 0 mins : 0 sec : 577 ms : 517625 ns
+Raw Time (ns):577517625
+
+
+
+
+Recursion Limit = 184
+Elements: 20000Time:0 hrs : 0 mins : 0 sec : 5 ms : 5760 ns
+Raw Time (ns):5005760
+Elements: 40000Time:0 hrs : 0 mins : 0 sec : 10 ms : 886503 ns
+Raw Time (ns):10886503
+Elements: 80000Time:0 hrs : 0 mins : 0 sec : 26 ms : 10087 ns
+Raw Time (ns):26010087
+Elements: 160000Time:0 hrs : 0 mins : 0 sec : 54 ms : 36994 ns
+Raw Time (ns):54036994
+Elements: 320000Time:0 hrs : 0 mins : 0 sec : 106 ms : 949378 ns
+Raw Time (ns):106949378
+Elements: 640000Time:0 hrs : 0 mins : 0 sec : 248 ms : 759098 ns
+Raw Time (ns):248759098
+Elements: 1280000Time:0 hrs : 0 mins : 0 sec : 556 ms : 914317 ns
+Raw Time (ns):556914317
+
+
+
+
+Recursion Limit = 186
+Elements: 20000Time:0 hrs : 0 mins : 0 sec : 5 ms : 36185 ns
+Raw Time (ns):5036185
+Elements: 40000Time:0 hrs : 0 mins : 0 sec : 10 ms : 974477 ns
+Raw Time (ns):10974477
+Elements: 80000Time:0 hrs : 0 mins : 0 sec : 22 ms : 897615 ns
+Raw Time (ns):22897615
+Elements: 160000Time:0 hrs : 0 mins : 0 sec : 64 ms : 126226 ns
+Raw Time (ns):64126226
+Elements: 320000Time:0 hrs : 0 mins : 0 sec : 124 ms : 883754 ns
+Raw Time (ns):124883754
+Elements: 640000Time:0 hrs : 0 mins : 0 sec : 238 ms : 294874 ns
+Raw Time (ns):238294874
+Elements: 1280000Time:0 hrs : 0 mins : 0 sec : 602 ms : 228253 ns
+Raw Time (ns):602228253
+
+
+
+
+Recursion Limit = 188
+Elements: 20000Time:0 hrs : 0 mins : 0 sec : 5 ms : 54147 ns
+Raw Time (ns):5054147
+Elements: 40000Time:0 hrs : 0 mins : 0 sec : 10 ms : 824921 ns
+Raw Time (ns):10824921
+Elements: 80000Time:0 hrs : 0 mins : 0 sec : 22 ms : 958098 ns
+Raw Time (ns):22958098
+Elements: 160000Time:0 hrs : 0 mins : 0 sec : 49 ms : 220013 ns
+Raw Time (ns):49220013
+Elements: 320000Time:0 hrs : 0 mins : 0 sec : 106 ms : 493376 ns
+Raw Time (ns):106493376
+Elements: 640000Time:0 hrs : 0 mins : 0 sec : 248 ms : 153173 ns
+Raw Time (ns):248153173
+Elements: 1280000Time:0 hrs : 0 mins : 0 sec : 574 ms : 308748 ns
+Raw Time (ns):574308748
+
+
+
+
+Recursion Limit = 190
+Elements: 20000Time:0 hrs : 0 mins : 0 sec : 4 ms : 991465 ns
+Raw Time (ns):4991465
+Elements: 40000Time:0 hrs : 0 mins : 0 sec : 11 ms : 230337 ns
+Raw Time (ns):11230337
+Elements: 80000Time:0 hrs : 0 mins : 0 sec : 23 ms : 153108 ns
+Raw Time (ns):23153108
+Elements: 160000Time:0 hrs : 0 mins : 0 sec : 58 ms : 768567 ns
+Raw Time (ns):58768567
+Elements: 320000Time:0 hrs : 0 mins : 0 sec : 116 ms : 271764 ns
+Raw Time (ns):116271764
+Elements: 640000Time:0 hrs : 0 mins : 0 sec : 277 ms : 71557 ns
+Raw Time (ns):277071557
+Elements: 1280000Time:0 hrs : 0 mins : 0 sec : 608 ms : 363022 ns
+Raw Time (ns):608363022
+
+
+
+
+Recursion Limit = 192
+Elements: 20000Time:0 hrs : 0 mins : 0 sec : 5 ms : 243292 ns
+Raw Time (ns):5243292
+Elements: 40000Time:0 hrs : 0 mins : 0 sec : 10 ms : 838850 ns
+Raw Time (ns):10838850
+Elements: 80000Time:0 hrs : 0 mins : 0 sec : 23 ms : 285437 ns
+Raw Time (ns):23285437
+Elements: 160000Time:0 hrs : 0 mins : 0 sec : 52 ms : 259538 ns
+Raw Time (ns):52259538
+Elements: 320000Time:0 hrs : 0 mins : 0 sec : 122 ms : 902857 ns
+Raw Time (ns):122902857
+Elements: 640000Time:0 hrs : 0 mins : 0 sec : 294 ms : 346123 ns
+Raw Time (ns):294346123
+Elements: 1280000Time:0 hrs : 0 mins : 0 sec : 550 ms : 198548 ns
+Raw Time (ns):550198548
+
+
+
+
+Recursion Limit = 194
+Elements: 20000Time:0 hrs : 0 mins : 0 sec : 5 ms : 174012 ns
+Raw Time (ns):5174012
+Elements: 40000Time:0 hrs : 0 mins : 0 sec : 11 ms : 197713 ns
+Raw Time (ns):11197713
+Elements: 80000Time:0 hrs : 0 mins : 0 sec : 23 ms : 682057 ns
+Raw Time (ns):23682057
+Elements: 160000Time:0 hrs : 0 mins : 0 sec : 49 ms : 972930 ns
+Raw Time (ns):49972930
+Elements: 320000Time:0 hrs : 0 mins : 0 sec : 113 ms : 918074 ns
+Raw Time (ns):113918074
+Elements: 640000Time:0 hrs : 0 mins : 0 sec : 260 ms : 607092 ns
+Raw Time (ns):260607092
+Elements: 1280000Time:0 hrs : 0 mins : 0 sec : 546 ms : 176637 ns
+Raw Time (ns):546176637
+
+
+
+
+Recursion Limit = 196
+Elements: 20000Time:0 hrs : 0 mins : 0 sec : 5 ms : 114630 ns
+Raw Time (ns):5114630
+Elements: 40000Time:0 hrs : 0 mins : 0 sec : 10 ms : 948451 ns
+Raw Time (ns):10948451
+Elements: 80000Time:0 hrs : 0 mins : 0 sec : 23 ms : 298633 ns
+Raw Time (ns):23298633
+Elements: 160000Time:0 hrs : 0 mins : 0 sec : 50 ms : 973642 ns
+Raw Time (ns):50973642
+Elements: 320000Time:0 hrs : 0 mins : 0 sec : 108 ms : 803078 ns
+Raw Time (ns):108803078
+Elements: 640000Time:0 hrs : 0 mins : 0 sec : 246 ms : 608850 ns
+Raw Time (ns):246608850
+Elements: 1280000Time:0 hrs : 0 mins : 0 sec : 579 ms : 72945 ns
+Raw Time (ns):579072945
+
+
+
+
+Recursion Limit = 198
+Elements: 20000Time:0 hrs : 0 mins : 0 sec : 5 ms : 302675 ns
+Raw Time (ns):5302675
+Elements: 40000Time:0 hrs : 0 mins : 0 sec : 11 ms : 6368 ns
+Raw Time (ns):11006368
+Elements: 80000Time:0 hrs : 0 mins : 0 sec : 23 ms : 458454 ns
+Raw Time (ns):23458454
+Elements: 160000Time:0 hrs : 0 mins : 0 sec : 56 ms : 952989 ns
+Raw Time (ns):56952989
+Elements: 320000Time:0 hrs : 0 mins : 0 sec : 123 ms : 26388 ns
+Raw Time (ns):123026388
+Elements: 640000Time:0 hrs : 0 mins : 0 sec : 263 ms : 464436 ns
+Raw Time (ns):263464436
+Elements: 1280000Time:0 hrs : 0 mins : 0 sec : 595 ms : 545475 ns
+Raw Time (ns):595545475
+
+
+
+
+Recursion Limit = 200
+Elements: 20000Time:0 hrs : 0 mins : 0 sec : 5 ms : 246958 ns
+Raw Time (ns):5246958
+Elements: 40000Time:0 hrs : 0 mins : 0 sec : 11 ms : 137964 ns
+Raw Time (ns):11137964
+Elements: 80000Time:0 hrs : 0 mins : 0 sec : 23 ms : 330157 ns
+Raw Time (ns):23330157
+Elements: 160000Time:0 hrs : 0 mins : 0 sec : 50 ms : 307234 ns
+Raw Time (ns):50307234
+Elements: 320000Time:0 hrs : 0 mins : 0 sec : 120 ms : 1525 ns
+Raw Time (ns):120001525
+Elements: 640000Time:0 hrs : 0 mins : 0 sec : 250 ms : 335312 ns
+Raw Time (ns):250335312
+Elements: 1280000Time:0 hrs : 0 mins : 0 sec : 544 ms : 959288 ns
+Raw Time (ns):544959288
+
+
+
+
+Recursion Limit = 202
+Elements: 20000Time:0 hrs : 0 mins : 0 sec : 5 ms : 208469 ns
+Raw Time (ns):5208469
+Elements: 40000Time:0 hrs : 0 mins : 0 sec : 11 ms : 237302 ns
+Raw Time (ns):11237302
+Elements: 80000Time:0 hrs : 0 mins : 0 sec : 27 ms : 560274 ns
+Raw Time (ns):27560274
+Elements: 160000Time:0 hrs : 0 mins : 0 sec : 52 ms : 81024 ns
+Raw Time (ns):52081024
+Elements: 320000Time:0 hrs : 0 mins : 0 sec : 114 ms : 135812 ns
+Raw Time (ns):114135812
+Elements: 640000Time:0 hrs : 0 mins : 0 sec : 254 ms : 120057 ns
+Raw Time (ns):254120057
+Elements: 1280000Time:0 hrs : 0 mins : 0 sec : 638 ms : 652345 ns
+Raw Time (ns):638652345
+
+
+
+
+Recursion Limit = 204
+Elements: 20000Time:0 hrs : 0 mins : 0 sec : 5 ms : 190508 ns
+Raw Time (ns):5190508
+Elements: 40000Time:0 hrs : 0 mins : 0 sec : 11 ms : 260029 ns
+Raw Time (ns):11260029
+Elements: 80000Time:0 hrs : 0 mins : 0 sec : 24 ms : 342966 ns
+Raw Time (ns):24342966
+Elements: 160000Time:0 hrs : 0 mins : 0 sec : 51 ms : 263958 ns
+Raw Time (ns):51263958
+Elements: 320000Time:0 hrs : 0 mins : 0 sec : 111 ms : 644662 ns
+Raw Time (ns):111644662
+Elements: 640000Time:0 hrs : 0 mins : 0 sec : 267 ms : 163039 ns
+Raw Time (ns):267163039
+Elements: 1280000Time:0 hrs : 0 mins : 0 sec : 602 ms : 267841 ns
+Raw Time (ns):602267841
+
+
+
+
+Recursion Limit = 206
+Elements: 20000Time:0 hrs : 0 mins : 0 sec : 5 ms : 130025 ns
+Raw Time (ns):5130025
+Elements: 40000Time:0 hrs : 0 mins : 0 sec : 11 ms : 90311 ns
+Raw Time (ns):11090311
+Elements: 80000Time:0 hrs : 0 mins : 0 sec : 23 ms : 708449 ns
+Raw Time (ns):23708449
+Elements: 160000Time:0 hrs : 0 mins : 0 sec : 51 ms : 453103 ns
+Raw Time (ns):51453103
+Elements: 320000Time:0 hrs : 0 mins : 0 sec : 123 ms : 811196 ns
+Raw Time (ns):123811196
+Elements: 640000Time:0 hrs : 0 mins : 0 sec : 254 ms : 150115 ns
+Raw Time (ns):254150115
+Elements: 1280000Time:0 hrs : 0 mins : 0 sec : 578 ms : 333224 ns
+Raw Time (ns):578333224
+
+
+
+
+Recursion Limit = 208
+Elements: 20000Time:0 hrs : 0 mins : 0 sec : 5 ms : 554503 ns
+Raw Time (ns):5554503
+Elements: 40000Time:0 hrs : 0 mins : 0 sec : 12 ms : 569019 ns
+Raw Time (ns):12569019
+Elements: 80000Time:0 hrs : 0 mins : 0 sec : 24 ms : 702563 ns
+Raw Time (ns):24702563
+Elements: 160000Time:0 hrs : 0 mins : 0 sec : 51 ms : 806835 ns
+Raw Time (ns):51806835
+Elements: 320000Time:0 hrs : 0 mins : 0 sec : 112 ms : 445231 ns
+Raw Time (ns):112445231
+Elements: 640000Time:0 hrs : 0 mins : 0 sec : 254 ms : 181273 ns
+Raw Time (ns):254181273
+Elements: 1280000Time:0 hrs : 0 mins : 0 sec : 563 ms : 615423 ns
+Raw Time (ns):563615423
+
+
+
+
+Recursion Limit = 210
+Elements: 20000Time:0 hrs : 0 mins : 0 sec : 5 ms : 178411 ns
+Raw Time (ns):5178411
+Elements: 40000Time:0 hrs : 0 mins : 0 sec : 11 ms : 329309 ns
+Raw Time (ns):11329309
+Elements: 80000Time:0 hrs : 0 mins : 0 sec : 24 ms : 819130 ns
+Raw Time (ns):24819130
+Elements: 160000Time:0 hrs : 0 mins : 0 sec : 51 ms : 460068 ns
+Raw Time (ns):51460068
+Elements: 320000Time:0 hrs : 0 mins : 0 sec : 111 ms : 244377 ns
+Raw Time (ns):111244377
+Elements: 640000Time:0 hrs : 0 mins : 0 sec : 287 ms : 765249 ns
+Raw Time (ns):287765249
+Elements: 1280000Time:0 hrs : 0 mins : 0 sec : 608 ms : 208333 ns
+Raw Time (ns):608208333
+
+
+
+
+Recursion Limit = 212
+Elements: 20000Time:0 hrs : 0 mins : 0 sec : 5 ms : 283613 ns
+Raw Time (ns):5283613
+Elements: 40000Time:0 hrs : 0 mins : 0 sec : 11 ms : 260395 ns
+Raw Time (ns):11260395
+Elements: 80000Time:0 hrs : 0 mins : 0 sec : 26 ms : 692257 ns
+Raw Time (ns):26692257
+Elements: 160000Time:0 hrs : 0 mins : 0 sec : 55 ms : 378975 ns
+Raw Time (ns):55378975
+Elements: 320000Time:0 hrs : 0 mins : 0 sec : 113 ms : 425783 ns
+Raw Time (ns):113425783
+Elements: 640000Time:0 hrs : 0 mins : 0 sec : 273 ms : 256387 ns
+Raw Time (ns):273256387
+Elements: 1280000Time:0 hrs : 0 mins : 0 sec : 556 ms : 842470 ns
+Raw Time (ns):556842470
+
+
+
+
+Recursion Limit = 214
+Elements: 20000Time:0 hrs : 0 mins : 0 sec : 5 ms : 315138 ns
+Raw Time (ns):5315138
+Elements: 40000Time:0 hrs : 0 mins : 0 sec : 11 ms : 429380 ns
+Raw Time (ns):11429380
+Elements: 80000Time:0 hrs : 0 mins : 0 sec : 24 ms : 252426 ns
+Raw Time (ns):24252426
+Elements: 160000Time:0 hrs : 0 mins : 0 sec : 52 ms : 646627 ns
+Raw Time (ns):52646627
+Elements: 320000Time:0 hrs : 0 mins : 0 sec : 112 ms : 257185 ns
+Raw Time (ns):112257185
+Elements: 640000Time:0 hrs : 0 mins : 0 sec : 256 ms : 39005 ns
+Raw Time (ns):256039005
+Elements: 1280000Time:0 hrs : 0 mins : 0 sec : 553 ms : 779485 ns
+Raw Time (ns):553779485
+
+
+
+
+Recursion Limit = 216
+Elements: 20000Time:0 hrs : 0 mins : 0 sec : 5 ms : 335299 ns
+Raw Time (ns):5335299
+Elements: 40000Time:0 hrs : 0 mins : 0 sec : 11 ms : 634287 ns
+Raw Time (ns):11634287
+Elements: 80000Time:0 hrs : 0 mins : 0 sec : 24 ms : 718325 ns
+Raw Time (ns):24718325
+Elements: 160000Time:0 hrs : 0 mins : 0 sec : 52 ms : 646261 ns
+Raw Time (ns):52646261
+Elements: 320000Time:0 hrs : 0 mins : 0 sec : 124 ms : 277828 ns
+Raw Time (ns):124277828
+Elements: 640000Time:0 hrs : 0 mins : 0 sec : 250 ms : 590072 ns
+Raw Time (ns):250590072
+Elements: 1280000Time:0 hrs : 0 mins : 0 sec : 629 ms : 388609 ns
+Raw Time (ns):629388609
+
+
+
+
+Recursion Limit = 218
+Elements: 20000Time:0 hrs : 0 mins : 0 sec : 5 ms : 806696 ns
+Raw Time (ns):5806696
+Elements: 40000Time:0 hrs : 0 mins : 0 sec : 12 ms : 127312 ns
+Raw Time (ns):12127312
+Elements: 80000Time:0 hrs : 0 mins : 0 sec : 25 ms : 442650 ns
+Raw Time (ns):25442650
+Elements: 160000Time:0 hrs : 0 mins : 0 sec : 56 ms : 623084 ns
+Raw Time (ns):56623084
+Elements: 320000Time:0 hrs : 0 mins : 0 sec : 118 ms : 364462 ns
+Raw Time (ns):118364462
+Elements: 640000Time:0 hrs : 0 mins : 0 sec : 269 ms : 662621 ns
+Raw Time (ns):269662621
+Elements: 1280000Time:0 hrs : 0 mins : 0 sec : 570 ms : 240651 ns
+Raw Time (ns):570240651
+
+
+
+
+Recursion Limit = 220
+Elements: 20000Time:0 hrs : 0 mins : 0 sec : 5 ms : 322470 ns
+Raw Time (ns):5322470
+Elements: 40000Time:0 hrs : 0 mins : 0 sec : 11 ms : 573072 ns
+Raw Time (ns):11573072
+Elements: 80000Time:0 hrs : 0 mins : 0 sec : 24 ms : 728223 ns
+Raw Time (ns):24728223
+Elements: 160000Time:0 hrs : 0 mins : 0 sec : 53 ms : 132321 ns
+Raw Time (ns):53132321
+Elements: 320000Time:0 hrs : 0 mins : 0 sec : 113 ms : 310316 ns
+Raw Time (ns):113310316
+Elements: 640000Time:0 hrs : 0 mins : 0 sec : 252 ms : 130729 ns
+Raw Time (ns):252130729
+Elements: 1280000Time:0 hrs : 0 mins : 0 sec : 664 ms : 199099 ns
+Raw Time (ns):664199099
+
+
+
+
+Recursion Limit = 222
+Elements: 20000Time:0 hrs : 0 mins : 0 sec : 5 ms : 410445 ns
+Raw Time (ns):5410445
+Elements: 40000Time:0 hrs : 0 mins : 0 sec : 11 ms : 581137 ns
+Raw Time (ns):11581137
+Elements: 80000Time:0 hrs : 0 mins : 0 sec : 24 ms : 735187 ns
+Raw Time (ns):24735187
+Elements: 160000Time:0 hrs : 0 mins : 0 sec : 52 ms : 522363 ns
+Raw Time (ns):52522363
+Elements: 320000Time:0 hrs : 0 mins : 0 sec : 113 ms : 801508 ns
+Raw Time (ns):113801508
+Elements: 640000Time:0 hrs : 0 mins : 0 sec : 267 ms : 407535 ns
+Raw Time (ns):267407535
+Elements: 1280000Time:0 hrs : 0 mins : 0 sec : 567 ms : 529931 ns
+Raw Time (ns):567529931
+
+
+
+
+Recursion Limit = 224
+Elements: 20000Time:0 hrs : 0 mins : 0 sec : 5 ms : 516380 ns
+Raw Time (ns):5516380
+Elements: 40000Time:0 hrs : 0 mins : 0 sec : 11 ms : 723362 ns
+Raw Time (ns):11723362
+Elements: 80000Time:0 hrs : 0 mins : 0 sec : 24 ms : 800069 ns
+Raw Time (ns):24800069
+Elements: 160000Time:0 hrs : 0 mins : 0 sec : 52 ms : 375739 ns
+Raw Time (ns):52375739
+Elements: 320000Time:0 hrs : 0 mins : 0 sec : 114 ms : 663293 ns
+Raw Time (ns):114663293
+Elements: 640000Time:0 hrs : 0 mins : 0 sec : 258 ms : 259266 ns
+Raw Time (ns):258259266
+Elements: 1280000Time:0 hrs : 0 mins : 0 sec : 588 ms : 964600 ns
+Raw Time (ns):588964600
+
+
+
+
+Recursion Limit = 226
+Elements: 20000Time:0 hrs : 0 mins : 0 sec : 5 ms : 617918 ns
+Raw Time (ns):5617918
+Elements: 40000Time:0 hrs : 0 mins : 0 sec : 11 ms : 733993 ns
+Raw Time (ns):11733993
+Elements: 80000Time:0 hrs : 0 mins : 0 sec : 24 ms : 885478 ns
+Raw Time (ns):24885478
+Elements: 160000Time:0 hrs : 0 mins : 0 sec : 53 ms : 127556 ns
+Raw Time (ns):53127556
+Elements: 320000Time:0 hrs : 0 mins : 0 sec : 125 ms : 628607 ns
+Raw Time (ns):125628607
+Elements: 640000Time:0 hrs : 0 mins : 0 sec : 260 ms : 360029 ns
+Raw Time (ns):260360029
+Elements: 1280000Time:0 hrs : 0 mins : 0 sec : 561 ms : 300956 ns
+Raw Time (ns):561300956
+
+
+
+
+Recursion Limit = 228
+Elements: 20000Time:0 hrs : 0 mins : 0 sec : 5 ms : 324669 ns
+Raw Time (ns):5324669
+Elements: 40000Time:0 hrs : 0 mins : 0 sec : 11 ms : 761118 ns
+Raw Time (ns):11761118
+Elements: 80000Time:0 hrs : 0 mins : 0 sec : 25 ms : 425055 ns
+Raw Time (ns):25425055
+Elements: 160000Time:0 hrs : 0 mins : 0 sec : 53 ms : 62307 ns
+Raw Time (ns):53062307
+Elements: 320000Time:0 hrs : 0 mins : 0 sec : 116 ms : 327115 ns
+Raw Time (ns):116327115
+Elements: 640000Time:0 hrs : 0 mins : 0 sec : 257 ms : 671669 ns
+Raw Time (ns):257671669
+Elements: 1280000Time:0 hrs : 0 mins : 0 sec : 587 ms : 296747 ns
+Raw Time (ns):587296747
+
+
+
+
+Recursion Limit = 230
+Elements: 20000Time:0 hrs : 0 mins : 0 sec : 5 ms : 426206 ns
+Raw Time (ns):5426206
+Elements: 40000Time:0 hrs : 0 mins : 0 sec : 11 ms : 856791 ns
+Raw Time (ns):11856791
+Elements: 80000Time:0 hrs : 0 mins : 0 sec : 25 ms : 171029 ns
+Raw Time (ns):25171029
+Elements: 160000Time:0 hrs : 0 mins : 0 sec : 54 ms : 561177 ns
+Raw Time (ns):54561177
+Elements: 320000Time:0 hrs : 0 mins : 0 sec : 124 ms : 423720 ns
+Raw Time (ns):124423720
+Elements: 640000Time:0 hrs : 0 mins : 0 sec : 258 ms : 669816 ns
+Raw Time (ns):258669816
+Elements: 1280000Time:0 hrs : 0 mins : 0 sec : 604 ms : 851365 ns
+Raw Time (ns):604851365
+
+
+
+
+Recursion Limit = 232
+Elements: 20000Time:0 hrs : 0 mins : 0 sec : 5 ms : 697828 ns
+Raw Time (ns):5697828
+Elements: 40000Time:0 hrs : 0 mins : 0 sec : 11 ms : 801806 ns
+Raw Time (ns):11801806
+Elements: 80000Time:0 hrs : 0 mins : 0 sec : 25 ms : 280997 ns
+Raw Time (ns):25280997
+Elements: 160000Time:0 hrs : 0 mins : 0 sec : 53 ms : 944621 ns
+Raw Time (ns):53944621
+Elements: 320000Time:0 hrs : 0 mins : 0 sec : 116 ms : 889420 ns
+Raw Time (ns):116889420
+Elements: 640000Time:0 hrs : 0 mins : 0 sec : 256 ms : 679388 ns
+Raw Time (ns):256679388
+Elements: 1280000Time:0 hrs : 0 mins : 0 sec : 576 ms : 91335 ns
+Raw Time (ns):576091335
+
+
+
+
+Recursion Limit = 234
+Elements: 20000Time:0 hrs : 0 mins : 0 sec : 5 ms : 478992 ns
+Raw Time (ns):5478992
+Elements: 40000Time:0 hrs : 0 mins : 0 sec : 11 ms : 715298 ns
+Raw Time (ns):11715298
+Elements: 80000Time:0 hrs : 0 mins : 0 sec : 25 ms : 484805 ns
+Raw Time (ns):25484805
+Elements: 160000Time:0 hrs : 0 mins : 0 sec : 54 ms : 668946 ns
+Raw Time (ns):54668946
+Elements: 320000Time:0 hrs : 0 mins : 0 sec : 120 ms : 976211 ns
+Raw Time (ns):120976211
+Elements: 640000Time:0 hrs : 0 mins : 0 sec : 272 ms : 184196 ns
+Raw Time (ns):272184196
+Elements: 1280000Time:0 hrs : 0 mins : 0 sec : 618 ms : 7982 ns
+Raw Time (ns):618007982
+
+
+
+
+Recursion Limit = 236
+Elements: 20000Time:0 hrs : 0 mins : 0 sec : 5 ms : 580162 ns
+Raw Time (ns):5580162
+Elements: 40000Time:0 hrs : 0 mins : 0 sec : 13 ms : 375454 ns
+Raw Time (ns):13375454
+Elements: 80000Time:0 hrs : 0 mins : 0 sec : 28 ms : 153737 ns
+Raw Time (ns):28153737
+Elements: 160000Time:0 hrs : 0 mins : 0 sec : 65 ms : 110810 ns
+Raw Time (ns):65110810
+Elements: 320000Time:0 hrs : 0 mins : 0 sec : 148 ms : 537219 ns
+Raw Time (ns):148537219
+Elements: 640000Time:0 hrs : 0 mins : 0 sec : 286 ms : 672529 ns
+Raw Time (ns):286672529
+Elements: 1280000Time:0 hrs : 0 mins : 0 sec : 622 ms : 423945 ns
+Raw Time (ns):622423945
+
+
+
+
+Recursion Limit = 238
+Elements: 20000Time:0 hrs : 0 mins : 0 sec : 5 ms : 554870 ns
+Raw Time (ns):5554870
+Elements: 40000Time:0 hrs : 0 mins : 0 sec : 13 ms : 88803 ns
+Raw Time (ns):13088803
+Elements: 80000Time:0 hrs : 0 mins : 0 sec : 30 ms : 784181 ns
+Raw Time (ns):30784181
+Elements: 160000Time:0 hrs : 0 mins : 0 sec : 77 ms : 249485 ns
+Raw Time (ns):77249485
+Elements: 320000Time:0 hrs : 0 mins : 0 sec : 130 ms : 986999 ns
+Raw Time (ns):130986999
+Elements: 640000Time:0 hrs : 0 mins : 0 sec : 273 ms : 602788 ns
+Raw Time (ns):273602788
+Elements: 1280000Time:0 hrs : 0 mins : 0 sec : 601 ms : 812205 ns
+Raw Time (ns):601812205
+
+
+
+
+Recursion Limit = 240
+Elements: 20000Time:0 hrs : 0 mins : 0 sec : 5 ms : 714690 ns
+Raw Time (ns):5714690
+Elements: 40000Time:0 hrs : 0 mins : 0 sec : 12 ms : 210155 ns
+Raw Time (ns):12210155
+Elements: 80000Time:0 hrs : 0 mins : 0 sec : 25 ms : 707308 ns
+Raw Time (ns):25707308
+Elements: 160000Time:0 hrs : 0 mins : 0 sec : 54 ms : 798709 ns
+Raw Time (ns):54798709
+Elements: 320000Time:0 hrs : 0 mins : 0 sec : 117 ms : 100559 ns
+Raw Time (ns):117100559
+Elements: 640000Time:0 hrs : 0 mins : 0 sec : 269 ms : 535058 ns
+Raw Time (ns):269535058
+Elements: 1280000Time:0 hrs : 0 mins : 0 sec : 588 ms : 749429 ns
+Raw Time (ns):588749429
+
+
+
+
+Recursion Limit = 242
+Elements: 20000Time:0 hrs : 0 mins : 0 sec : 5 ms : 598490 ns
+Raw Time (ns):5598490
+Elements: 40000Time:0 hrs : 0 mins : 0 sec : 11 ms : 889781 ns
+Raw Time (ns):11889781
+Elements: 80000Time:0 hrs : 0 mins : 0 sec : 25 ms : 815443 ns
+Raw Time (ns):25815443
+Elements: 160000Time:0 hrs : 0 mins : 0 sec : 54 ms : 339773 ns
+Raw Time (ns):54339773
+Elements: 320000Time:0 hrs : 0 mins : 0 sec : 118 ms : 896342 ns
+Raw Time (ns):118896342
+Elements: 640000Time:0 hrs : 0 mins : 0 sec : 263 ms : 262094 ns
+Raw Time (ns):263262094
+Elements: 1280000Time:0 hrs : 0 mins : 0 sec : 587 ms : 235897 ns
+Raw Time (ns):587235897
+
+
+
+
+Recursion Limit = 244
+Elements: 20000Time:0 hrs : 0 mins : 0 sec : 5 ms : 723121 ns
+Raw Time (ns):5723121
+Elements: 40000Time:0 hrs : 0 mins : 0 sec : 12 ms : 308761 ns
+Raw Time (ns):12308761
+Elements: 80000Time:0 hrs : 0 mins : 0 sec : 26 ms : 349890 ns
+Raw Time (ns):26349890
+Elements: 160000Time:0 hrs : 0 mins : 0 sec : 55 ms : 976103 ns
+Raw Time (ns):55976103
+Elements: 320000Time:0 hrs : 0 mins : 0 sec : 162 ms : 928048 ns
+Raw Time (ns):162928048
+Elements: 640000Time:0 hrs : 0 mins : 0 sec : 282 ms : 935438 ns
+Raw Time (ns):282935438
+Elements: 1280000Time:0 hrs : 0 mins : 0 sec : 606 ms : 771047 ns
+Raw Time (ns):606771047
+
+
+
+
+Recursion Limit = 246
+Elements: 20000Time:0 hrs : 0 mins : 0 sec : 5 ms : 797166 ns
+Raw Time (ns):5797166
+Elements: 40000Time:0 hrs : 0 mins : 0 sec : 12 ms : 278335 ns
+Raw Time (ns):12278335
+Elements: 80000Time:0 hrs : 0 mins : 0 sec : 28 ms : 220818 ns
+Raw Time (ns):28220818
+Elements: 160000Time:0 hrs : 0 mins : 0 sec : 55 ms : 333154 ns
+Raw Time (ns):55333154
+Elements: 320000Time:0 hrs : 0 mins : 0 sec : 122 ms : 142976 ns
+Raw Time (ns):122142976
+Elements: 640000Time:0 hrs : 0 mins : 0 sec : 304 ms : 531027 ns
+Raw Time (ns):304531027
+Elements: 1280000Time:0 hrs : 0 mins : 0 sec : 606 ms : 948829 ns
+Raw Time (ns):606948829
+
+
+
+
+Recursion Limit = 248
+Elements: 20000Time:0 hrs : 0 mins : 0 sec : 5 ms : 534342 ns
+Raw Time (ns):5534342
+Elements: 40000Time:0 hrs : 0 mins : 0 sec : 13 ms : 130590 ns
+Raw Time (ns):13130590
+Elements: 80000Time:0 hrs : 0 mins : 0 sec : 26 ms : 361253 ns
+Raw Time (ns):26361253
+Elements: 160000Time:0 hrs : 0 mins : 0 sec : 59 ms : 92240 ns
+Raw Time (ns):59092240
+Elements: 320000Time:0 hrs : 0 mins : 0 sec : 129 ms : 422516 ns
+Raw Time (ns):129422516
+Elements: 640000Time:0 hrs : 0 mins : 0 sec : 268 ms : 589330 ns
+Raw Time (ns):268589330
+Elements: 1280000Time:0 hrs : 0 mins : 0 sec : 646 ms : 165385 ns
+Raw Time (ns):646165385
+
+
+
+
+Recursion Limit = 250
+Elements: 20000Time:0 hrs : 0 mins : 0 sec : 5 ms : 524078 ns
+Raw Time (ns):5524078
+Elements: 40000Time:0 hrs : 0 mins : 0 sec : 12 ms : 246445 ns
+Raw Time (ns):12246445
+Elements: 80000Time:0 hrs : 0 mins : 0 sec : 25 ms : 788317 ns
+Raw Time (ns):25788317
+Elements: 160000Time:0 hrs : 0 mins : 0 sec : 62 ms : 845094 ns
+Raw Time (ns):62845094
+Elements: 320000Time:0 hrs : 0 mins : 0 sec : 124 ms : 674081 ns
+Raw Time (ns):124674081
+Elements: 640000Time:0 hrs : 0 mins : 0 sec : 268 ms : 619387 ns
+Raw Time (ns):268619387
+Elements: 1280000Time:0 hrs : 0 mins : 0 sec : 640 ms : 228559 ns
+Raw Time (ns):640228559
+
+
+
+
+Recursion Limit = 252
+Elements: 20000Time:0 hrs : 0 mins : 0 sec : 5 ms : 856183 ns
+Raw Time (ns):5856183
+Elements: 40000Time:0 hrs : 0 mins : 0 sec : 12 ms : 708679 ns
+Raw Time (ns):12708679
+Elements: 80000Time:0 hrs : 0 mins : 0 sec : 28 ms : 855335 ns
+Raw Time (ns):28855335
+Elements: 160000Time:0 hrs : 0 mins : 0 sec : 59 ms : 149424 ns
+Raw Time (ns):59149424
+Elements: 320000Time:0 hrs : 0 mins : 0 sec : 136 ms : 771702 ns
+Raw Time (ns):136771702
+Elements: 640000Time:0 hrs : 0 mins : 0 sec : 295 ms : 349400 ns
+Raw Time (ns):295349400
+Elements: 1280000Time:0 hrs : 0 mins : 0 sec : 613 ms : 411670 ns
+Raw Time (ns):613411670
+
+
+
+
+Recursion Limit = 254
+Elements: 20000Time:0 hrs : 0 mins : 0 sec : 6 ms : 216513 ns
+Raw Time (ns):6216513
+Elements: 40000Time:0 hrs : 0 mins : 0 sec : 12 ms : 534195 ns
+Raw Time (ns):12534195
+Elements: 80000Time:0 hrs : 0 mins : 0 sec : 26 ms : 342924 ns
+Raw Time (ns):26342924
+Elements: 160000Time:0 hrs : 0 mins : 0 sec : 83 ms : 510719 ns
+Raw Time (ns):83510719
+Elements: 320000Time:0 hrs : 0 mins : 0 sec : 143 ms : 427355 ns
+Raw Time (ns):143427355
+Elements: 640000Time:0 hrs : 0 mins : 0 sec : 275 ms : 860805 ns
+Raw Time (ns):275860805
+Elements: 1280000Time:0 hrs : 0 mins : 0 sec : 631 ms : 822209 ns
+Raw Time (ns):631822209
+
+
+
+
+Recursion Limit = 256
+Elements: 20000Time:0 hrs : 0 mins : 0 sec : 5 ms : 763442 ns
+Raw Time (ns):5763442
+Elements: 40000Time:0 hrs : 0 mins : 0 sec : 12 ms : 371076 ns
+Raw Time (ns):12371076
+Elements: 80000Time:0 hrs : 0 mins : 0 sec : 26 ms : 393877 ns
+Raw Time (ns):26393877
+Elements: 160000Time:0 hrs : 0 mins : 0 sec : 55 ms : 607342 ns
+Raw Time (ns):55607342
+Elements: 320000Time:0 hrs : 0 mins : 0 sec : 122 ms : 465916 ns
+Raw Time (ns):122465916
+Elements: 640000Time:0 hrs : 0 mins : 0 sec : 277 ms : 771323 ns
+Raw Time (ns):277771323
+Elements: 1280000Time:0 hrs : 0 mins : 0 sec : 624 ms : 106095 ns
+Raw Time (ns):624106095
+
+
+
+
+Recursion Limit = 258
+Elements: 20000Time:0 hrs : 0 mins : 0 sec : 5 ms : 882209 ns
+Raw Time (ns):5882209
+Elements: 40000Time:0 hrs : 0 mins : 0 sec : 12 ms : 225184 ns
+Raw Time (ns):12225184
+Elements: 80000Time:0 hrs : 0 mins : 0 sec : 26 ms : 829718 ns
+Raw Time (ns):26829718
+Elements: 160000Time:0 hrs : 0 mins : 0 sec : 55 ms : 938347 ns
+Raw Time (ns):55938347
+Elements: 320000Time:0 hrs : 0 mins : 0 sec : 120 ms : 775336 ns
+Raw Time (ns):120775336
+Elements: 640000Time:0 hrs : 0 mins : 0 sec : 271 ms : 133631 ns
+Raw Time (ns):271133631
+Elements: 1280000Time:0 hrs : 0 mins : 0 sec : 584 ms : 426206 ns
+Raw Time (ns):584426206
+
+
+
+
+Recursion Limit = 260
+Elements: 20000Time:0 hrs : 0 mins : 0 sec : 5 ms : 748047 ns
+Raw Time (ns):5748047
+Elements: 40000Time:0 hrs : 0 mins : 0 sec : 12 ms : 274670 ns
+Raw Time (ns):12274670
+Elements: 80000Time:0 hrs : 0 mins : 0 sec : 26 ms : 776934 ns
+Raw Time (ns):26776934
+Elements: 160000Time:0 hrs : 0 mins : 0 sec : 56 ms : 560035 ns
+Raw Time (ns):56560035
+Elements: 320000Time:0 hrs : 0 mins : 0 sec : 132 ms : 271063 ns
+Raw Time (ns):132271063
+Elements: 640000Time:0 hrs : 0 mins : 0 sec : 267 ms : 817352 ns
+Raw Time (ns):267817352
+Elements: 1280000Time:0 hrs : 0 mins : 0 sec : 598 ms : 979420 ns
+Raw Time (ns):598979420
+
+
+
+
+Recursion Limit = 262
+Elements: 20000Time:0 hrs : 0 mins : 0 sec : 5 ms : 922163 ns
+Raw Time (ns):5922163
+Elements: 40000Time:0 hrs : 0 mins : 0 sec : 12 ms : 448421 ns
+Raw Time (ns):12448421
+Elements: 80000Time:0 hrs : 0 mins : 0 sec : 26 ms : 956549 ns
+Raw Time (ns):26956549
+Elements: 160000Time:0 hrs : 0 mins : 0 sec : 58 ms : 498045 ns
+Raw Time (ns):58498045
+Elements: 320000Time:0 hrs : 0 mins : 0 sec : 127 ms : 620867 ns
+Raw Time (ns):127620867
+Elements: 640000Time:0 hrs : 0 mins : 0 sec : 274 ms : 73452 ns
+Raw Time (ns):274073452
+Elements: 1280000Time:0 hrs : 0 mins : 0 sec : 606 ms : 398253 ns
+Raw Time (ns):606398253
+
+
+
+
+Recursion Limit = 264
+Elements: 20000Time:0 hrs : 0 mins : 0 sec : 6 ms : 134769 ns
+Raw Time (ns):6134769
+Elements: 40000Time:0 hrs : 0 mins : 0 sec : 13 ms : 35285 ns
+Raw Time (ns):13035285
+Elements: 80000Time:0 hrs : 0 mins : 0 sec : 26 ms : 916593 ns
+Raw Time (ns):26916593
+Elements: 160000Time:0 hrs : 0 mins : 0 sec : 60 ms : 748365 ns
+Raw Time (ns):60748365
+Elements: 320000Time:0 hrs : 0 mins : 0 sec : 132 ms : 741361 ns
+Raw Time (ns):132741361
+Elements: 640000Time:0 hrs : 0 mins : 0 sec : 287 ms : 929101 ns
+Raw Time (ns):287929101
+Elements: 1280000Time:0 hrs : 0 mins : 0 sec : 626 ms : 391604 ns
+Raw Time (ns):626391604
+
+
+
+
+Recursion Limit = 266
+Elements: 20000Time:0 hrs : 0 mins : 0 sec : 5 ms : 988145 ns
+Raw Time (ns):5988145
+Elements: 40000Time:0 hrs : 0 mins : 0 sec : 12 ms : 692550 ns
+Raw Time (ns):12692550
+Elements: 80000Time:0 hrs : 0 mins : 0 sec : 26 ms : 891667 ns
+Raw Time (ns):26891667
+Elements: 160000Time:0 hrs : 0 mins : 0 sec : 56 ms : 626749 ns
+Raw Time (ns):56626749
+Elements: 320000Time:0 hrs : 0 mins : 0 sec : 122 ms : 925584 ns
+Raw Time (ns):122925584
+Elements: 640000Time:0 hrs : 0 mins : 0 sec : 274 ms : 886485 ns
+Raw Time (ns):274886485
+Elements: 1280000Time:0 hrs : 0 mins : 0 sec : 611 ms : 70443 ns
+Raw Time (ns):611070443
+
+
+
+
+Recursion Limit = 268
+Elements: 20000Time:0 hrs : 0 mins : 0 sec : 5 ms : 918132 ns
+Raw Time (ns):5918132
+Elements: 40000Time:0 hrs : 0 mins : 0 sec : 12 ms : 453919 ns
+Raw Time (ns):12453919
+Elements: 80000Time:0 hrs : 0 mins : 0 sec : 27 ms : 33893 ns
+Raw Time (ns):27033893
+Elements: 160000Time:0 hrs : 0 mins : 0 sec : 56 ms : 506518 ns
+Raw Time (ns):56506518
+Elements: 320000Time:0 hrs : 0 mins : 0 sec : 123 ms : 873145 ns
+Raw Time (ns):123873145
+Elements: 640000Time:0 hrs : 0 mins : 0 sec : 287 ms : 882915 ns
+Raw Time (ns):287882915
+Elements: 1280000Time:0 hrs : 0 mins : 0 sec : 613 ms : 348622 ns
+Raw Time (ns):613348622
+
+
+
+
+Recursion Limit = 270
+Elements: 20000Time:0 hrs : 0 mins : 0 sec : 6 ms : 33964 ns
+Raw Time (ns):6033964
+Elements: 40000Time:0 hrs : 0 mins : 0 sec : 12 ms : 800685 ns
+Raw Time (ns):12800685
+Elements: 80000Time:0 hrs : 0 mins : 0 sec : 26 ms : 952149 ns
+Raw Time (ns):26952149
+Elements: 160000Time:0 hrs : 0 mins : 0 sec : 57 ms : 872324 ns
+Raw Time (ns):57872324
+Elements: 320000Time:0 hrs : 0 mins : 0 sec : 124 ms : 771953 ns
+Raw Time (ns):124771953
+Elements: 640000Time:0 hrs : 0 mins : 0 sec : 272 ms : 506403 ns
+Raw Time (ns):272506403
+Elements: 1280000Time:0 hrs : 0 mins : 0 sec : 608 ms : 203934 ns
+Raw Time (ns):608203934
+
+
+
+
+Recursion Limit = 272
+Elements: 20000Time:0 hrs : 0 mins : 0 sec : 6 ms : 20402 ns
+Raw Time (ns):6020402
+Elements: 40000Time:0 hrs : 0 mins : 0 sec : 12 ms : 836975 ns
+Raw Time (ns):12836975
+Elements: 80000Time:0 hrs : 0 mins : 0 sec : 27 ms : 389090 ns
+Raw Time (ns):27389090
+Elements: 160000Time:0 hrs : 0 mins : 0 sec : 58 ms : 52672 ns
+Raw Time (ns):58052672
+Elements: 320000Time:0 hrs : 0 mins : 0 sec : 124 ms : 961099 ns
+Raw Time (ns):124961099
+Elements: 640000Time:0 hrs : 0 mins : 0 sec : 277 ms : 971831 ns
+Raw Time (ns):277971831
+Elements: 1280000Time:0 hrs : 0 mins : 0 sec : 627 ms : 637179 ns
+Raw Time (ns):627637179
+
+
+
+
+Recursion Limit = 274
+Elements: 20000Time:0 hrs : 0 mins : 0 sec : 5 ms : 975681 ns
+Raw Time (ns):5975681
+Elements: 40000Time:0 hrs : 0 mins : 0 sec : 13 ms : 17323 ns
+Raw Time (ns):13017323
+Elements: 80000Time:0 hrs : 0 mins : 0 sec : 27 ms : 614892 ns
+Raw Time (ns):27614892
+Elements: 160000Time:0 hrs : 0 mins : 0 sec : 58 ms : 452591 ns
+Raw Time (ns):58452591
+Elements: 320000Time:0 hrs : 0 mins : 0 sec : 126 ms : 347433 ns
+Raw Time (ns):126347433
+Elements: 640000Time:0 hrs : 0 mins : 0 sec : 274 ms : 950633 ns
+Raw Time (ns):274950633
+Elements: 1280000Time:0 hrs : 0 mins : 0 sec : 598 ms : 233835 ns
+Raw Time (ns):598233835
+
+
+
+
+Recursion Limit = 276
+Elements: 20000Time:0 hrs : 0 mins : 0 sec : 6 ms : 49727 ns
+Raw Time (ns):6049727
+Elements: 40000Time:0 hrs : 0 mins : 0 sec : 13 ms : 226630 ns
+Raw Time (ns):13226630
+Elements: 80000Time:0 hrs : 0 mins : 0 sec : 27 ms : 463503 ns
+Raw Time (ns):27463503
+Elements: 160000Time:0 hrs : 0 mins : 0 sec : 58 ms : 35445 ns
+Raw Time (ns):58035445
+Elements: 320000Time:0 hrs : 0 mins : 0 sec : 126 ms : 878581 ns
+Raw Time (ns):126878581
+Elements: 640000Time:0 hrs : 0 mins : 0 sec : 279 ms : 951995 ns
+Raw Time (ns):279951995
+Elements: 1280000Time:0 hrs : 0 mins : 0 sec : 628 ms : 438116 ns
+Raw Time (ns):628438116
+
+
+
+
+Recursion Limit = 278
+Elements: 20000Time:0 hrs : 0 mins : 0 sec : 6 ms : 281394 ns
+Raw Time (ns):6281394
+Elements: 40000Time:0 hrs : 0 mins : 0 sec : 13 ms : 134623 ns
+Raw Time (ns):13134623
+Elements: 80000Time:0 hrs : 0 mins : 0 sec : 27 ms : 508956 ns
+Raw Time (ns):27508956
+Elements: 160000Time:0 hrs : 0 mins : 0 sec : 58 ms : 626341 ns
+Raw Time (ns):58626341
+Elements: 320000Time:0 hrs : 0 mins : 0 sec : 124 ms : 585374 ns
+Raw Time (ns):124585374
+Elements: 640000Time:0 hrs : 0 mins : 0 sec : 277 ms : 222580 ns
+Raw Time (ns):277222580
+Elements: 1280000Time:0 hrs : 0 mins : 0 sec : 606 ms : 690770 ns
+Raw Time (ns):606690770
+
+
+
+
+Recursion Limit = 280
+Elements: 20000Time:0 hrs : 0 mins : 0 sec : 5 ms : 941592 ns
+Raw Time (ns):5941592
+Elements: 40000Time:0 hrs : 0 mins : 0 sec : 13 ms : 96501 ns
+Raw Time (ns):13096501
+Elements: 80000Time:0 hrs : 0 mins : 0 sec : 27 ms : 779479 ns
+Raw Time (ns):27779479
+Elements: 160000Time:0 hrs : 0 mins : 0 sec : 60 ms : 325352 ns
+Raw Time (ns):60325352
+Elements: 320000Time:0 hrs : 0 mins : 0 sec : 127 ms : 628198 ns
+Raw Time (ns):127628198
+Elements: 640000Time:0 hrs : 0 mins : 0 sec : 286 ms : 93362 ns
+Raw Time (ns):286093362
+Elements: 1280000Time:0 hrs : 0 mins : 0 sec : 632 ms : 703789 ns
+Raw Time (ns):632703789
+
+
+
+
+Recursion Limit = 282
+Elements: 20000Time:0 hrs : 0 mins : 0 sec : 6 ms : 32132 ns
+Raw Time (ns):6032132
+Elements: 40000Time:0 hrs : 0 mins : 0 sec : 13 ms : 34919 ns
+Raw Time (ns):13034919
+Elements: 80000Time:0 hrs : 0 mins : 0 sec : 28 ms : 176098 ns
+Raw Time (ns):28176098
+Elements: 160000Time:0 hrs : 0 mins : 0 sec : 58 ms : 668862 ns
+Raw Time (ns):58668862
+Elements: 320000Time:0 hrs : 0 mins : 0 sec : 134 ms : 147857 ns
+Raw Time (ns):134147857
+Elements: 640000Time:0 hrs : 0 mins : 0 sec : 275 ms : 87361 ns
+Raw Time (ns):275087361
+Elements: 1280000Time:0 hrs : 0 mins : 0 sec : 608 ms : 746078 ns
+Raw Time (ns):608746078
+
+
+
+
+Recursion Limit = 284
+Elements: 20000Time:0 hrs : 0 mins : 0 sec : 6 ms : 44961 ns
+Raw Time (ns):6044961
+Elements: 40000Time:0 hrs : 0 mins : 0 sec : 13 ms : 150018 ns
+Raw Time (ns):13150018
+Elements: 80000Time:0 hrs : 0 mins : 0 sec : 27 ms : 471200 ns
+Raw Time (ns):27471200
+Elements: 160000Time:0 hrs : 0 mins : 0 sec : 59 ms : 48253 ns
+Raw Time (ns):59048253
+Elements: 320000Time:0 hrs : 0 mins : 0 sec : 125 ms : 899862 ns
+Raw Time (ns):125899862
+Elements: 640000Time:0 hrs : 0 mins : 0 sec : 276 ms : 835492 ns
+Raw Time (ns):276835492
+Elements: 1280000Time:0 hrs : 0 mins : 0 sec : 618 ms : 588248 ns
+Raw Time (ns):618588248
+
+
+
+
+Recursion Limit = 286
+Elements: 20000Time:0 hrs : 0 mins : 0 sec : 6 ms : 130004 ns
+Raw Time (ns):6130004
+Elements: 40000Time:0 hrs : 0 mins : 0 sec : 13 ms : 41516 ns
+Raw Time (ns):13041516
+Elements: 80000Time:0 hrs : 0 mins : 0 sec : 28 ms : 167666 ns
+Raw Time (ns):28167666
+Elements: 160000Time:0 hrs : 0 mins : 0 sec : 59 ms : 200743 ns
+Raw Time (ns):59200743
+Elements: 320000Time:0 hrs : 0 mins : 0 sec : 128 ms : 39113 ns
+Raw Time (ns):128039113
+Elements: 640000Time:0 hrs : 0 mins : 0 sec : 279 ms : 108905 ns
+Raw Time (ns):279108905
+Elements: 1280000Time:0 hrs : 0 mins : 0 sec : 643 ms : 451365 ns
+Raw Time (ns):643451365
+
+
+
+
+Recursion Limit = 288
+Elements: 20000Time:0 hrs : 0 mins : 0 sec : 6 ms : 79418 ns
+Raw Time (ns):6079418
+Elements: 40000Time:0 hrs : 0 mins : 0 sec : 12 ms : 961973 ns
+Raw Time (ns):12961973
+Elements: 80000Time:0 hrs : 0 mins : 0 sec : 29 ms : 146752 ns
+Raw Time (ns):29146752
+Elements: 160000Time:0 hrs : 0 mins : 0 sec : 60 ms : 567650 ns
+Raw Time (ns):60567650
+Elements: 320000Time:0 hrs : 0 mins : 0 sec : 126 ms : 526681 ns
+Raw Time (ns):126526681
+Elements: 640000Time:0 hrs : 0 mins : 0 sec : 295 ms : 221837 ns
+Raw Time (ns):295221837
+Elements: 1280000Time:0 hrs : 0 mins : 0 sec : 611 ms : 954589 ns
+Raw Time (ns):611954589
+
+
+
+
+Recursion Limit = 290
+Elements: 20000Time:0 hrs : 0 mins : 0 sec : 6 ms : 50093 ns
+Raw Time (ns):6050093
+Elements: 40000Time:0 hrs : 0 mins : 0 sec : 13 ms : 160649 ns
+Raw Time (ns):13160649
+Elements: 80000Time:0 hrs : 0 mins : 0 sec : 28 ms : 103519 ns
+Raw Time (ns):28103519
+Elements: 160000Time:0 hrs : 0 mins : 0 sec : 61 ms : 195569 ns
+Raw Time (ns):61195569
+Elements: 320000Time:0 hrs : 0 mins : 0 sec : 135 ms : 128041 ns
+Raw Time (ns):135128041
+Elements: 640000Time:0 hrs : 0 mins : 0 sec : 277 ms : 532691 ns
+Raw Time (ns):277532691
+Elements: 1280000Time:0 hrs : 0 mins : 0 sec : 621 ms : 529169 ns
+Raw Time (ns):621529169
+
+
+
+
+Recursion Limit = 292
+Elements: 20000Time:0 hrs : 0 mins : 0 sec : 6 ms : 275528 ns
+Raw Time (ns):6275528
+Elements: 40000Time:0 hrs : 0 mins : 0 sec : 13 ms : 443634 ns
+Raw Time (ns):13443634
+Elements: 80000Time:0 hrs : 0 mins : 0 sec : 28 ms : 627334 ns
+Raw Time (ns):28627334
+Elements: 160000Time:0 hrs : 0 mins : 0 sec : 60 ms : 632898 ns
+Raw Time (ns):60632898
+Elements: 320000Time:0 hrs : 0 mins : 0 sec : 129 ms : 978956 ns
+Raw Time (ns):129978956
+Elements: 640000Time:0 hrs : 0 mins : 0 sec : 278 ms : 524972 ns
+Raw Time (ns):278524972
+Elements: 1280000Time:0 hrs : 0 mins : 0 sec : 620 ms : 47528 ns
+Raw Time (ns):620047528
+
+
+
+
+Recursion Limit = 294
+Elements: 20000Time:0 hrs : 0 mins : 0 sec : 6 ms : 206982 ns
+Raw Time (ns):6206982
+Elements: 40000Time:0 hrs : 0 mins : 0 sec : 13 ms : 496419 ns
+Raw Time (ns):13496419
+Elements: 80000Time:0 hrs : 0 mins : 0 sec : 28 ms : 630633 ns
+Raw Time (ns):28630633
+Elements: 160000Time:0 hrs : 0 mins : 0 sec : 59 ms : 700365 ns
+Raw Time (ns):59700365
+Elements: 320000Time:0 hrs : 0 mins : 0 sec : 128 ms : 383681 ns
+Raw Time (ns):128383681
+Elements: 640000Time:0 hrs : 0 mins : 0 sec : 294 ms : 588053 ns
+Raw Time (ns):294588053
+Elements: 1280000Time:0 hrs : 0 mins : 0 sec : 651 ms : 467327 ns
+Raw Time (ns):651467327
+
+
+
+
+Recursion Limit = 296
+Elements: 20000Time:0 hrs : 0 mins : 0 sec : 6 ms : 430951 ns
+Raw Time (ns):6430951
+Elements: 40000Time:0 hrs : 0 mins : 0 sec : 13 ms : 752645 ns
+Raw Time (ns):13752645
+Elements: 80000Time:0 hrs : 0 mins : 0 sec : 29 ms : 899302 ns
+Raw Time (ns):29899302
+Elements: 160000Time:0 hrs : 0 mins : 0 sec : 64 ms : 972250 ns
+Raw Time (ns):64972250
+Elements: 320000Time:0 hrs : 0 mins : 0 sec : 130 ms : 703648 ns
+Raw Time (ns):130703648
+Elements: 640000Time:0 hrs : 0 mins : 0 sec : 285 ms : 950404 ns
+Raw Time (ns):285950404
+Elements: 1280000Time:0 hrs : 0 mins : 0 sec : 625 ms : 64652 ns
+Raw Time (ns):625064652
+
+
+
+
+Recursion Limit = 298
+Elements: 20000Time:0 hrs : 0 mins : 0 sec : 6 ms : 288725 ns
+Raw Time (ns):6288725
+Elements: 40000Time:0 hrs : 0 mins : 0 sec : 13 ms : 325968 ns
+Raw Time (ns):13325968
+Elements: 80000Time:0 hrs : 0 mins : 0 sec : 28 ms : 527263 ns
+Raw Time (ns):28527263
+Elements: 160000Time:0 hrs : 0 mins : 0 sec : 60 ms : 421025 ns
+Raw Time (ns):60421025
+Elements: 320000Time:0 hrs : 0 mins : 0 sec : 128 ms : 668866 ns
+Raw Time (ns):128668866
+Elements: 640000Time:0 hrs : 0 mins : 0 sec : 294 ms : 269878 ns
+Raw Time (ns):294269878
+Elements: 1280000Time:0 hrs : 0 mins : 0 sec : 658 ms : 131043 ns
+Raw Time (ns):658131043
+
+
+
+
+Recursion Limit = 300
+Elements: 20000Time:0 hrs : 0 mins : 0 sec : 6 ms : 440114 ns
+Raw Time (ns):6440114
+Elements: 40000Time:0 hrs : 0 mins : 0 sec : 13 ms : 494586 ns
+Raw Time (ns):13494586
+Elements: 80000Time:0 hrs : 0 mins : 0 sec : 28 ms : 745001 ns
+Raw Time (ns):28745001
+Elements: 160000Time:0 hrs : 0 mins : 0 sec : 73 ms : 656452 ns
+Raw Time (ns):73656452
+Elements: 320000Time:0 hrs : 0 mins : 0 sec : 139 ms : 982779 ns
+Raw Time (ns):139982779
+Elements: 640000Time:0 hrs : 0 mins : 0 sec : 296 ms : 177463 ns
+Raw Time (ns):296177463
+Elements: 1280000Time:0 hrs : 0 mins : 0 sec : 639 ms : 705842 ns
+Raw Time (ns):639705842
+
+
+
+
+
+Process finished with exit code 0
