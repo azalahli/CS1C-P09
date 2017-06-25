@@ -1,0 +1,8 @@
+The decision to make a line graph would seem to dismiss the point of collecting multiple runs for statistical power.
+By plotting a line graph of the averages, a examiner cannot look at other facets of the algorithm, e.g. maximum run times, minimum run times, only the average.
+By plotting my graphs as scatter plots, it allows for more information, regarding non-average cases.
+It also allows the creation of additional statistics, such as the standard deviation, which would reinforce the validity of an average.
+Admittedly, quicksort is very much an average case kind of sort, but without the additional proof from regressions and stastics, that cannot be claimed.
+
+Another note is that unfortunately, my data set of arrays does not reach an a large enough size to give useful data on quicksort runs regarding large data sets.
+The array sizes of under 1.28m do not show a very clear polynomial relationship, leading me to have done linear regressions on sets.

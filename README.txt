@@ -1,22 +1,27 @@
 @author Myron Pow
 project folder:
-azalahli-project08/
+azalahli-project09/
 
-Description: parallel memory heap-sorting
+Description: Excel + Recursion Limit of Quicksort
 
-src/sorters/heapArrayMerger.java
-	Attempted to search minimums from heaps
-src/sorters/BasicSorter.java
-	Sorts Chunks via quicksort
-src/sorters/SimulateChunks.java
-	Parses input files and constructs memory chunks
-src/sorters/SortFileData.java
-	No change to instructor source
-src/sorters/HeapTuple.java
-	No change to instructor source
+source/cs1c/FHsort.java
+	copy from week09_part2
+source/cs1c/Timeconverter.java
+	copy from azalahli-project08/
+source/sort/MainSortTester.java
+	bunch of for loops to make quicksort put on a show
 resources/RUN.txt
-	console output of SortFileData.java
-resources/result_using_min_heap_*.txt
-	console written files from SortFileData.java
+	console output of MainSortTester.java
+resources/sort_results*.txt
+	console written files from MainSortTester.java
+resources/QStimes.xlsx
+	excel sheet for work. Am reasonably sure that it is complete
+resources/QStimes_BACKUP.xlsx
+	crashed, if something is missing it should be here
+resources/READ_FIRST.txt
+	justification for methodology
+resources/Basic Graph*.png
+	pictures
+	The one that really matters is the summary
 README.txt
 	description of files submitted
