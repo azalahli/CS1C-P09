@@ -1,4 +1,4 @@
-package sort;
+package cs1c;
 
 
 public class FHsort
