@@ -13,7 +13,9 @@ import java.util.ArrayList;
 import java.util.Date;
 
 /**
- * Created by Mober6 on 6/24/2017.
+ * Tests Quicksort at multiple recursion limits at multiple array sizes, which are 20k * 2^N
+ * recursion limits go from 2 to 300, with a step size of 2
+ * @author Myron Pow 6/25/2017
  */
 public class MainSortTester {
     final static int MIN_RECURSION = 2;
@@ -22,6 +24,13 @@ public class MainSortTester {
     final static int [] ARRAY_ELEMENTS = {20000,40000,80000,160000,320000,640000,1280000};
     static int [] recursionSteps = new int[MAX_RECURSION/STEP_SIZE];
 
+    /**
+     * Method uses material from Project_09 for date stamps and file writing.
+     * Main is 4 for loops
+     * first one populates the recursion steps
+     * next 3 are nested to populate arrays, sort those arrays, and to do so at each step of the quicksort
+     * @param args
+     */
     public static void main(String[] args){
         final String filePath = "resources/";	// Directory path for Mac OS X
         DateFormat format = new SimpleDateFormat("yyyyMMdd_hhmmss");
