@@ -1,0 +1,16 @@
+FEEDBACK:
+
+Overall, well done this quarter!
+
+
+Yes, you are correct in that a scatter plot will provide a more accurate depiction
+   of the differences in run time. However, augmenting the scatter plots with a line 
+   graph as you have done to more easily read the trends for the smaller array
+   sizes, which appear cluttered. 
+ 
+ 
++2 Well done in going above and beyond in investigating your results via different
+   visual representations and a detailed description of each!
+     
+-Bita.
+
